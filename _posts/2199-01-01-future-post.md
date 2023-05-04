@@ -1,11 +1,95 @@
 ---
-title: "Future Blog Post"
+title: "Challenges in Institutionalizing One Health in China"
 date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+permalink: /posts/2023/04/blog-post-Challenges in Institutionalizing One Health in China/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - Shanghai
+  - University of Edinburgh
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+Challenges in Institutionalizing One Health in China
+==
+
+Word count for this article: Total of 1999 words (automatically calculated using Microsoft Word’s word count module), including the text, excluding title, subtitle, reference, and this words-counting note.
+
+**I. Introduction**
+
+Proposed in 2004 (Gibbs, 2014), the advanced concept of One Health has increasingly attracted attention for its advocacy to take humans, animals and ecosystems as a whole and seek a sustainable balance through a systems approach, multisectoral and multidisciplinary collaboration (WHO, 2021). Therefore, it has been institutionalized and translated into policy in some countries, e.g., Canada and Sweden to address challenges such as antimicrobial resistance (Affairs, 2020), but this is not the case for China, where One Health was only introduced by researchers in 2013 (Huang et al., 2022).
+
+Institutionalization is the process of translating logical and convincing consensus into formal or informal decisions, rules, policies, and actions. Thus, it takes a long way to go from academic conclusion to persuasion at the public awareness and government level. Motivated by this gap, this thesis focuses on challenges in the translation of the One Health concept to Chinese policy regarding the concept divergence, Chinese philosophical culture, and its centralized government. We also tentatively discuss how the initial steps can be taken to resolve them.
+
+**II. Divergence in the concept of One Health **
+
+Although One Health has been formally proposed since 2004, it still lacks a unified and clear international definition (Gibbs, 2014), as discussed in the course. For example, World Health Organization (WHO) emphasizes collaboration and transdisciplinary, while the World Organization for Animal Health (WOAH) defines it as an integrated and unifying approach and focuses more on domestic and wild animals. The One Health High-Level Expert Panel (OHHLEP) optimized the definition in 2022 to highlight the entire ecosystem including humans, animals, and the environment, while some scientists still believe that it should focus only on the human-animal-environment interface, i.e., the intersection of the three, rather than the simultaneous set.
+
+This unclarity understandably comes from the divergent specializations and funding sources of various sectors but has resulted in its poor communication to the academic and general public, making the forming of One Health policy controversial. Therefore, in terms of the initial definition, there is a greater need for communication and collaboration to clarify its concerns, methods of achievement and evaluation systems for the results of actions (Nzietchueng et al., 2023).
+Such divergence in concept is enhanced during translation, complicating this issue in China. The “One” in One Health has been translated as "equal" by one school, but as “whole” by another (Huang et al., 2022). Such confrontations in name further prevent the planting of One Health in Chinese consensus by decreasing its professionalism and confusing the public, let alone the institutionalization at the national level.
+
+**III. Chinese Philosophical and Cultural Impact on Institutionalizing One Health**
+
+Institutionalization success highly relies on how a concept aligns with a community’s values. The majority of Chinese culture aligns with One Health in emphasizing the harmony of human and nature and the dynamic balance, but there also exists some ideas that are in confrontation with One Health.
+The concept of Yin-Yang is deeply entrenched in Chinese, emphasizing a balance with a dynamic, holistic, and integrated resolution of conflict. During the 5000-year Chinese history, Yin-Yang has been used to develop calendars, guide agriculture, prevent floods, treat disease, and even by ancient emperors to govern their countries. Yin-Yang balances short-term and long-term goals within an organization and attempts to find the optimal solution instead of one choice (Li, 2016). This coincides with the multidisciplinary, multi-organizational, and multi-sectoral cooperation in the One Health concept to balance different stakeholders in order to achieve sustainable health for people, animals, and the environment. 
+
+Confucianism has also proposed "the unity of heaven and man" (tian ren he yi, 天人合一), which resembles One Health in emphasizing the harmony between humans and nature, with human four limbs corresponding to the four seasons and human breath corresponding to air and wind. The word “tian” does precisely mean “heaven”, but rather a metaphor for the sky and the earth and all living things in them, the inseparable unity of all life in nature and the environment in the minds of ancient Chinese philosophers (Weber, 2005), somewhat akin to an ecosystem. This is in line with One Health's emphasis on people, animals, and the environment in its entirety. "Ren" stands for human, and 'heyi' means to live in harmony, to rely on each other, and to depend on each other. In this concern, humans and nature are integrated with traditional Chinese philosophy.
+
+One Health mostly fits into the Chinese and East Asian cultures, but it also includes some ideas opposite to One Health. That could partially explain why China still has not translated One Health into policy.
+
+Besides the harmony between humans and nature, "unity of heaven and man" also stresses that humans are special, that the human body is similar to the structure of the universe, and that it is superior to other creatures has a soul-searching effect (Longxi, 2009). And this meaning has been strengthened in feudal monarchies to maintain their rule: the kings and their think tanks added a layer of hierarchy and order to the 'tian' with the meaning of 'Creator' and a greater emphasis on human subjectivity. The word 'tian' (creator) was the master of mankind and all living things, the ruler was the incarnation of the creator in the real world, and the local officials were the spokesmen for the central government. This emphasis on hierarchy and order expanded and continued for generations, gradually giving rise to class divisions in the population, a distinction between the inferior and the superior, and the ingraining of anthropocentrism in the minds of citizens. The fact that the surface and core meanings of the same Chinese philosophy are completely opposite inevitably confuses people, but it also makes it easier to misuse it, allowing rulers to use its apparent meaning of 'harmony between man and nature' as a cover for destroying the environment in pursuit of economic development. Just as in formal Chinese education, when discussing the 'relationship between man and nature' in children's natural science textbooks, the phrase “tian ren he yi” is also invoked, but the interpretation of this philosophical idea is not “man and nature are an integrality”, but rather “man respects the environment and protects it” (Zhao, 2019). It is a subtle difference, but one that reflects the logic of subject and object. It is not difficult to imagine that the intergenerational transmission of such an underlying meaning could pose an obstacle to the institutionalization of the One Health philosophy in China. These ideas also make it difficult for the concept of animal welfare to be widely disseminated among the general public in China and hinder the legislative process of animal welfare laws (You et al., 2014). Animal rights and welfare are an inescapable part of the One Health concept, and the degree to which the public accepts and internalizes them will affect the localization and institutionalization of One Health in China. 
+
+**IV. Chinese Political Impacts on institutionalizing One Health**
+
+The uniquely centralized Chinese government enforces the effective implementation of policies but also hampers scholars to convey their ideas about One Health in policy making. 
+
+Scholars and other knowledge actors are engaged in the transnational dissemination of ideas through knowledge networks consisting of collaborative research, publications, and exchanges, and play an important role in the decision-making process (Stone, 2013). Scientists should have a voice in the policy-making process and actively contribute to the dissemination and institutionalization of One Health, which, in China's case, is however hampered. One of the reasons is the lack of a boundary organization to bridge the science-policy gap (balance scientific expertise and policy feasibility) because policy-making is not a direct use of academic research results or linear knowledge transfer (Wesselink and Hoppe, 2020).
+
+The Chinese government has highly centralized political power, and this authoritarianism makes the design and implementation of policies and strategies top-down and forcefully enforced, as local governments act assertively to fulfill or even exceed the central government's orders to demonstrate their political loyalty (Jiang, 2022). The advantage here is when faced with a crisis, it is possible for the central government to intervene to formulate and implement policies efficiently by bypassing the legal system.
+
+At the same time, this closed system has limited the intervention of academics and think tanks (Ma and Lin, 2012) and to some extent hindered the institutionalization of One Health. Chinese government's control over public opinion, publications, and academic research has also led to limited participation of civil society organizations in the policymaking process by forming an unquestioning trust in the government (Sun, 2022), preventing the bottom-up institutionalization of One Health. 
+
+**V. Conclusion and Potential Solutions**
+
+The concept of One Health is based on a holistic approach that considers the interconnectedness of humans, animals, and the environment. This approach aims to achieve a sustainable balance by collaborating across multiple sectors and disciplines. China has faced a complex situation in institutionalizing One Health. Besides the original divergence in the One Health definition, the socio-cultural and political status also makes the process sophisticated. Chinese traditional culture highlights harmony between humans and nature but simultaneously prioritizes humans over other creatures. The centralized Chinese government hampers the academic idea of One Health to reach the governor, but once it succeeds in that one day, the policy would be implemented very efficiently.
+
+It would be necessary and promising to take action to tackle these challenges. Building the One Health community is critical to the growth of One Health in China, which can enhance communication and collaboration among scholars to conduct in-depth research and discussion on reaching a consensus on the definition of One Health, arriving at a unified Chinese translation and definition, and combining it with Chinese philosophical to resonate with more citizens and achieve its wide dissemination and internalization among the population. Although the Chinese government has extremely tight controls and restrictions on citizens' freedom of expression, One Health practitioners can attempt to use government discourse to promote the One Health concept and may even receive authoritative support. China is undergoing a major social and demographic shift, and the unprecedented concern of its citizens for animal welfare, especially for companion animals (Su and Martens, 2017), will provide the basis for the spread and institutionalization of One Health among its target groups. And once institutionalized among this group, it will spread more quickly and easily between groups and even generations and will be sustainable (Zucker, 1977).
+
+Although China is a highly centralized state, knowledge communities can also generate, transplant, develop, and disseminate knowledge through the intersection of power and knowledge structures to influence decision-making (Farid and Noguchi, 2022). Knowledge actors should try to institutionalize One Health on specific health issues (e.g. antimicrobial resistance) by taking a more moderate approach and using systems thinking to integrate existing policies rather than proposing entirely new ones that are acceptable to policymakers. In 2016, China's National Health Commission and 14 other departments jointly formulated the National Action Plan to Curb Bacterial Resistance (2016-2020), which not only improves the monitoring network of antibiotic use and bacterial resistance in clinical and agricultural sectors, but also strengthens the monitoring of antibiotic contamination in water, soil, and other environments, and realizes the joint prevention and control of agriculture, forestry, animal husbandry, and aquaculture. The network also strengthens the monitoring of antibiotic contamination in water, soil, and other environments, and realizes the joint prevention and control of agriculture, forestry, animal husbandry, and aquaculture. Although the policy is not explicitly based on One Health, it is a holistic approach. However, the quality of resistance monitoring in hospitals and farms varies from region to region, affecting the quality of data in the surveillance network, and there are "islands of information" between surveillance networks. Perhaps the first step in China's antimicrobial resistance challenge is not to create a new One Health organization, but to integrate existing platforms for more comprehensive surveillance. While modest, small changes will make their progress and effectiveness less surprising, they will allow decision-makers to see the plum in the pudding that is within their grasp, and they will avoid the conflict with other agencies that comes with a large new agency, thus reducing the political obstacle to it (Corbett and Howard, 2017). 
+
+**Reference**
+
+Affairs, M. O. H. a. S. 2020. Swedish strategy to combat antibiotic resistance 2020–2023 [Online]. Ministry of Health and Social Affairs. Available: https://cdn.who.int/media/docs/default-source/antimicrobial-resistance/amr-spc-npm/nap-library/swedish-strategy-to-combat-antimicrobial-resistance-2020-2023.pdf?sfvrsn=dacbb55f_1&download=true [Accessed].
+
+Corbett, J. & Howard, C. 2017. WHY PERCEIVED SIZE MATTERS FOR AGENCY TERMINATION. Public Administration, 95, 196-213.
+
+Farid, M. & Noguchi, L. 2022. Knowledge communities and policy influence in China. World Development, 150, 105737.
+
+Gibbs, E. P. 2014. The evolution of One Health: a decade of progress and challenges for the future. Vet Rec, 174, 85-91.
+
+Huang, J., Mclean, G. R., Dubee, F. C. & Zheng, Z. 2022. Two pandemics in China, One Health in Chinese. BMJ Glob Health, 7.
+
+Jiang, J. 2022. A Question of Human Rights or Human Left? – The ‘People’s War against COVID-19’ under the ‘Gridded Management’ System in China. Journal of Contemporary China, 31, 491-504.
+
+Li, P. P. 2016. Global implications of the indigenous epistemological system from the East: How to apply Yin-Yang balancing to paradox management. Cross Cultural & Strategic Management.
+
+Longxi, Z. 2009. Heaven and Man from a cross-cultural perspective. Comparative political theory and cross-cultural philosophy: essays in honor of Hwa Yol Jung, 139-50.
+Ma, J. & Lin, M. 2012. Policymaking in China: A Review of Chinese Scholarship. China Review, 12, 95-121.
+
+Nzietchueng, S., Kitua, A., Nyatanyi, T. & Rwego, I. B. 2023. Facilitating implementation of the one health approach: A definition of a one health intervention. One Health, 16, 100491.
+
+Stone, D. 2013. Knowledge Networks/Policy Networks. In: STONE, D. (ed.) Knowledge Actors and Transnational Governance: The Private-Public Policy Nexus in the Global Agora. London: Palgrave Macmillan UK.
+
+Su, B. & Martens, P. 2017. Public attitudes toward animals and the influential factors in contemporary China. Animal Welfare, 26, 239-247.
+
+Sun, T. 2022. Controlling Civil Society from the Bottomup: China’s Strategic Arrangement of the State-CSO-Individual Trialism in Managing State-society Relations. Journal of Contemporary China, 31, 844-862.
+
+Weber, R. 2005. Oneness and particularity in Chinese natural cosmology: the notion tianrenheyi. Asian Philosophy, 15, 191-205.
+
+Wesselink, A. & Hoppe, R. 2020. Boundary Organizations: Intermediaries in Science–Policy Interactions. Oxford University Press.
+
+Who. 2021. Tripartite and UNEP Support OHHLEP’s Definition of “One Health” [Online]. Available: https://www.who.int/news/item/01-12-2021-tripartite-and-unep-support-ohhlep-s-definition-of-one-health [Accessed].
+
+You, X., Li, Y., Zhang, M., Yan, H. & Zhao, R. 2014. A Survey of Chinese Citizens’ Perceptions on Farm Animal Welfare. PLOS ONE, 9, e109177.
+
+Zhao, W. 2019. Historicizing tianrenheyi as correlative cosmology for rethinking education in modern China and beyond. Educational Philosophy and Theory, 51, 1106-1116.
+
+Zucker, L. G. 1977. The Role of Institutionalization in Cultural Persistence. American Sociological Review, 42, 726-743.
+
