@@ -11,9 +11,9 @@ title                    : "Jing Qian"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://jing-qian-9898.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/jing.qian.homepage" # the subpath of your site, e.g. "/blog"
-repository               : "jing-qian-9898/jing.qian.homepage"
+url                      : https://Jing-Qian-98.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/Jing-Qian-98.github.io" # the subpath of your site, e.g. "/blog"
+repository               : "Jing-Qian-98/Jing-Qian-98.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
