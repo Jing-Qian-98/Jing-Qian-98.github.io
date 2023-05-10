@@ -1,7 +1,7 @@
 ---
 title: "Challenges in Institutionalizing One Health in China"
-date: 2199-01-01
-permalink: /posts/2023/04/blog-post-Challenges in Institutionalizing One Health in China/
+date: 2023-05-05
+permalink: /posts/2023/05/blog-post-Challenges in Institutionalizing One Health in China/
 tags:
   - Shanghai
   - University of Edinburgh
