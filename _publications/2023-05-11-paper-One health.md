@@ -1,5 +1,5 @@
 ---
-title: "One Health: a holistic approach for food safety in livestock"
+title: "Antibiotic-resistant microbes,antibiotic resistance genes and One Health"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
