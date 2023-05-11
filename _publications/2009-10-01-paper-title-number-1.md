@@ -1,13 +1,13 @@
 ---
-title: "Antibiotic-Resistant Microbes, Antibiotic Resistance Genes and One Health"
+title: "One Health: a holistic approach for food safety in livestock"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
-date: 2022-06-14
-venue: 'Microbiology China'
+date: 2023-05-10
+venue: 'Science in One Health'
 ---
-This paper summarizes the main modes of transmission and the relationship between them and outlines Chinese and other countries' national plans to combat antibiotic resistance. We advocate that countries and regions use the concept and method of One Health to control the spread of antibiotic resistance. In addition, we should deal with the global challenge of antibiotic resistance through multisectoral collaboration among the medical and health sectors, food and drug administration, agriculture, forestry, fisheries, husbandry, education, and finance.
+This paper depicts the main pathogen spectrum of livestock and animal products, summarizes the flow of antibiotic-resistant bacteria and genes between humans and livestock along the food-chain production, and the correlation of their microbiome is reviewed as well to advocate for deeper interdisciplinary communication and collaboration among researchers in medicine, epidemiology, veterinary medicine and ecology to promote One Health approaches to address the global food safety challenges.
 
-Download paper [here](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJDAY&filename=WSWT20220610000&uniplatform=NZKPT&v=OUd6pkyNl_mYBoEWPy7JFYpJ_aai1Cz4UXLz6NqNC1VXLl0Ka50iRC_EkEGnvk4O) or [here](https://github.com/jing-qian-9898/jing.qian.homepage/blob/master/files/paper0.pdf)
+Download paper [here](https://www.sciencedirect.com/science/article/pii/S2949704323000094).
 
-Recommended citation: **Qian Jing**, Wu Zheyuan, Guo Xiaokui, Liu Chang. Antibiotic-resistant microbes, antibiotic resistance genes and One Health [J]. Microbiology China, 2022
+Recommended citation: **Qian J**, Wu Z, Zhu Y, Liu C. One Health: a holistic approach for food safety in livestock. Science in One Health. 2023:100015.
