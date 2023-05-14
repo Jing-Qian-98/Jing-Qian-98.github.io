@@ -85,9 +85,9 @@ author:
   bio              : "Postgraduate Student, SJTU"
   location         : "Shanghai, China"
   employer         :
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=P1HOw1gAAAAJ"
   email            : "qianjing98@sjtu.edu.cn"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Jing-Qian-57"
   uri              :
   bitbucket        :
   codepen          :
