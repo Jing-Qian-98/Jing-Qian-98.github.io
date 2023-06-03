@@ -1,7 +1,7 @@
 ---
 title: "Antibiotic-resistant microbes,antibiotic resistance genes and One Health"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2022-06-14-paper-title-number-1
 excerpt: ''
 date: 2022-06-14
 venue: 'Microbiology China'
