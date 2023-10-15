@@ -30,6 +30,6 @@ Literature Reviews: surveying antibiotic resistance from a One Health perspectiv
 
 Combine Ambiguous Labels in Cause-of-death Classification (2023)
 ------
-During the spring and summer of 2023, I worked in [Professor Zehang Richard Li](https://zehangli.com/)'s team at the Department of Statistics, University of California Santa Cruz.
+During the spring and summer of 2023, I worked in Professor [Zehang Richard Li](https://zehangli.com/)'s team at the Department of Statistics, University of California Santa Cruz.
 ![figure-openva](/images/2023_summerintern_itca_openva.png)
 We focus on cause-of-death analysis where post-training label combination is important if we want to yield appropriately ambiguous results without sacrificing essential information. Existing label combination methods are designed exclusively for classification tasks, so we need to extend them to tasks with a different loss like cause-of-death analysis. Our key design is to formulate the label combination problem as a new optimization problem with a proposed regularizer to control the combination degree.
