@@ -25,7 +25,7 @@ Projects
 ------
 + **Microbiota and antibiotic resistance genes at human-pig-soil interface (2022-2023)**
 
-<img src="https://Jing-Qian-98.github.io/images/2022_2023_project_1_2_combine.png">
+![figure1](/images/2022_2023_project_1_2_combine.png)
 
 **Figure [Left](https://drive.google.com/file/d/1GZnsrNatXDrxWZX9U0QeRD4sF9_KQ9X-/view?usp=sharing) & [Right](https://drive.google.com/file/d/1-SYHXCjU_5uRPG7FU51wi_iiyd4x3NiK/view?usp=drive_link) Mapping microbial connectedness of people, animals and their environment on Chongming island using shotgun metagenomic sequencing**
 
@@ -33,7 +33,7 @@ The role of livestock in the emergence and dissemination of infectious disease i
 
 + **Literature Reviews: surveying antibiotic resistance from a One Health perspective (2021-2022)**
 
-<img src="https://Jing-Qian-98.github.io/images/2021_2022_project_3_4_review_combine.png">
+![figure2](/images/2021_2022_project_3_4_review_combine.png)
 
 **Figure [Left](https://drive.google.com/file/d/16cIZ7Mfaa-B_u8yLpAs5AyiKMAkzTewe/view?usp=drive_link) & [Right](https://drive.google.com/file/d/1sr6dpHNV0QWh3mFO11jMl0nljAhp59qS/view?usp=drive_link) Transmission of antibiotic resistance genes at the human-animal-environment interfaces**
 
