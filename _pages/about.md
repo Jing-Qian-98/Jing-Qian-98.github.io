@@ -11,7 +11,11 @@ redirect_from:
   
 About me
 ======
-I'm a Third-year postgraduate student at [School of Global Health](https://www.shsmu.edu.cn/sghen/About/SGH.htm), Chinese Center for Tropical Diseases Research, [Shanghai Jiao Tong University School of Medicine](https://en.sjtu.edu.cn/), China. I received my Bachelor of Medicine degree in the School of Public Health, [Anhui Medical University](https://english.ahmu.edu.cn/). My research interests are Next Generation Sequencing, Public Health, Bioinformatics and Machine Learning. See my CV [here](https://drive.google.com/file/d/1xy1ZOE_R70Ij-LB78fU0swIOhcjfUKYI/view?usp=sharing). I'm currently applying for Ph.D. positions.
+I'm a Third-year postgraduate student at [School of Global Health](https://www.shsmu.edu.cn/sghen/About/SGH.htm), Chinese Center for Tropical Diseases Research, [Shanghai Jiao Tong University School of Medicine](https://en.sjtu.edu.cn/), China. I received my Bachelor of Medicine degree in the School of Public Health, [Anhui Medical University](https://english.ahmu.edu.cn/). 
+
+My research interests are Next Generation Sequencing, Public Health, Bioinformatics and Machine Learning. See my CV [here](https://drive.google.com/file/d/1xy1ZOE_R70Ij-LB78fU0swIOhcjfUKYI/view?usp=sharing). 
+
+I'm currently applying for Ph.D. positions.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *qianjing98[at]sjtu.edu.cn*
 
