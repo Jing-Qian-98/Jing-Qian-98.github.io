@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : _Jing_Qian_
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -113,7 +113,7 @@ author:
   youtube          :
   wikipedia        :
   cv               : "https://drive.google.com/file/d/1xy1ZOE_R70Ij-LB78fU0swIOhcjfUKYI/view?usp=sharing"
-
+  twitter          : _Jing_Qian_
 # Reading Files
 include:
   - .htaccess
