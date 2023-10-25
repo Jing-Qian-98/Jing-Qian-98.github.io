@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jing Qian"
   avatar           : "profile.jpg"
-  bio              : "Postgraduate Student, SJTU"
+  bio              : "Master Student, SJTU"
   location         : "Shanghai, China"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=P1HOw1gAAAAJ"
@@ -101,7 +101,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "%E7%92%9F-%E9%92%B1-22b32712a"
+  #linkedin         : "%E7%92%9F-%E9%92%B1-22b32712a"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
