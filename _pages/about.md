@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+
+
 Biography
 ======
 
@@ -20,6 +22,7 @@ News
 + [23.5] Our survey [One Health: a holistic approach for food safety in livestock](https://doi.org/10.1016/j.soh.2023.100015) was accepted by **Science in One Health**.
 + [22.6] Our survey [Antibiotic-resistant microbes, antibiotic resistance genes and One Health](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJDAY&filename=WSWT20220610000&uniplatform=NZKPT&v=OUd6pkyNl_mYBoEWPy7JFYpJ_aai1Cz4UXLz6NqNC1VXLl0Ka50iRC_EkEGnvk4O) was accepted by **Microbiology China**.
 + [22.6] I completed the courses [Machine Learning](https://www.coursera.org/account/accomplishments/certificate/22JZWA9PV86K) & [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/YRJ443BAU4MN) by Andrew Ng, as well as [Oxford Machine Learning Summer School](https://drive.google.com/file/d/1iTm0CgGalPPGqOmcMJ4Q_1ISzU2XmfLW/view?usp=share_link) for ML Health track.
+
 
 Projects
 ======
