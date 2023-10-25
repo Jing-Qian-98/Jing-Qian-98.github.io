@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-Combine Ambiguous Labels in Cause-of-death Classification (2023)
+Label combination in cause-of-death analysis (2023)
 ------
 In 2023, I work in Prof. [Zehang Richard Li](https://zehangli.com/) at UCSC. We focus on cause-of-death analysis where post-training label combination is important if we want to yield appropriately ambiguous results without sacrificing essential information. Existing label combination methods are designed exclusively for classification tasks, so we need to extend them to tasks with a different loss like cause-of-death analysis. Our key design is to formulate the label combination problem as a new optimization problem with a proposed regularizer to control the combination degree.
 
