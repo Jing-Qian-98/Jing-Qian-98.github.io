@@ -13,11 +13,11 @@ redirect_from:
 Biography
 ======
 
-Hi! I am a final-year master's student at [School of Global Health](https://www.shsmu.edu.cn/sghen/About/SGH.htm), [Shanghai Jiao Tong University School of Medicine](https://www.shsmu.edu.cn/english). I received my Bachelor of Medicine from the School of Public Health, [Anhui Medical University](https://english.ahmu.edu.cn/). I am currently looking for Ph.D. positions starting in 2024 Fall in the U.S. and Europe. My research interests are next-generation sequencing, public health, bioinformatics, and machine learning. If you are interested in any research collaboration with me, drop me an email and I would love to chat.
+Hello! I am a Ph.D. student at [the Department of Integrative Physiology](colorado.edu/iphy/), [University of Colorado Boulder](https://www.colorado.edu/), advised by [Prof. Matthew R. Olm](https://mrolm.github.io/)  at [the Integrative Microbiome Research Laboratory](https://www.colorado.edu/iphy/research/integrative-microbiome-research-laboratory). My research interests are microbiome, public health, and bioinformatics. Previously, I completed my Master's degree at Shanghai Jiao Tong University School of Medicine [Shanghai Jiao Tong University School of Medicine](https://www.shsmu.edu.cn/english), and my Bachelor's degree at [Anhui Medical University](https://english.ahmu.edu.cn/). Feel free to drop me an email to chat!
 
 News
 ======
-+ [23.10] Our work [Correlation of microbiota and antibiotic resistance genes in the swine manure-soil interface in Chongming Island](https://doi.org/10.21203/rs.3.rs-2860598/v1) was submitted. Happy to answer your questions!
++ [23.10] Our work [Correlation of microbiota and antibiotic resistance genes in the swine manure-soil interface in Chongming Island](https://cjm.dmu.edu.cn/article/doi/10.13381/j.cnki.cjm.202402002) was accepted by **Chinese Journal of Microecology**! [PDF]()
 + [23.9] I spent a lovely summer interning with Prof. [Zehang Richard Li](https://zehangli.com/) at UCSC.
 + [23.5] Our survey [One Health: a holistic approach for food safety in livestock](https://doi.org/10.1016/j.soh.2023.100015) was accepted by **Science in One Health**.
 + [22.6] Our survey [Antibiotic-resistant microbes, antibiotic resistance genes and One Health](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJDAY&filename=WSWT20220610000&uniplatform=NZKPT&v=OUd6pkyNl_mYBoEWPy7JFYpJ_aai1Cz4UXLz6NqNC1VXLl0Ka50iRC_EkEGnvk4O) was accepted by **Microbiology China**.
