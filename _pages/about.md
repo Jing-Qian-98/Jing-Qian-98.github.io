@@ -19,10 +19,10 @@ News
 ======
 + [2024.03] Our work Metagenomic insights into correlation of microbiota and antibiotic resistance genes in the worker-pig-soil interface: A One Health surveillance on Chongming Island, China has been submitted to **Environment International**!
 + [2023.10] Our work [Correlation of microbiota and antibiotic resistance genes in the swine manure-soil interface in Chongming Island](https://cjm.dmu.edu.cn/article/doi/10.13381/j.cnki.cjm.202402002) was accepted by **Chinese Journal of Microecology**! 
-+ [2023.9] I spent a lovely summer interning with Prof. [Zehang Richard Li](https://zehangli.com/) at UCSC.
+ <!--+ [2023.9] I spent a lovely summer interning with Prof. [Zehang Richard Li](https://zehangli.com/) at UCSC.-->
 + [2023.5] Our survey [One Health: a holistic approach for food safety in livestock](https://doi.org/10.1016/j.soh.2023.100015) was accepted by **Science in One Health**.
 + [2022.6] Our survey [Antibiotic-resistant microbes, antibiotic resistance genes and One Health](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJDAY&filename=WSWT20220610000&uniplatform=NZKPT&v=OUd6pkyNl_mYBoEWPy7JFYpJ_aai1Cz4UXLz6NqNC1VXLl0Ka50iRC_EkEGnvk4O) was accepted by **Microbiology China**.
-+ [2022.6] I completed the courses [Machine Learning](https://www.coursera.org/account/accomplishments/certificate/22JZWA9PV86K) & [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/YRJ443BAU4MN) by Andrew Ng, as well as [Oxford Machine Learning Summer School](https://drive.google.com/file/d/1iTm0CgGalPPGqOmcMJ4Q_1ISzU2XmfLW/view?usp=share_link) for ML Health track.
+ <!--+ [2022.6] I completed the courses [Machine Learning](https://www.coursera.org/account/accomplishments/certificate/22JZWA9PV86K) & [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/YRJ443BAU4MN) by Andrew Ng, as well as [Oxford Machine Learning Summer School](https://drive.google.com/file/d/1iTm0CgGalPPGqOmcMJ4Q_1ISzU2XmfLW/view?usp=share_link) for ML Health track.-->
 
 
 Projects
