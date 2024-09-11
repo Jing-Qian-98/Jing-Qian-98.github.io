@@ -13,7 +13,7 @@ redirect_from:
 Biography
 ======
 
-Hello! I am a Ph.D. student at [the Department of Integrative Physiology](https://www.colorado.edu/iphy/), [University of Colorado Boulder](https://www.colorado.edu/), advised by [Prof. Matthew R. Olm](https://mrolm.github.io/)  at [the Integrative Microbiome Research Laboratory](https://www.colorado.edu/iphy/research/integrative-microbiome-research-laboratory). My research interests are microbiome, public health, and bioinformatics. Previously, I completed my Master's degree at Shanghai Jiao Tong University School of Medicine [Shanghai Jiao Tong University School of Medicine](https://www.shsmu.edu.cn/english), and my Bachelor's degree at [Anhui Medical University](https://english.ahmu.edu.cn/). Feel free to drop me an email to chat!
+Hello! I am a Ph.D. student at [the Department of Integrative Physiology](https://www.colorado.edu/iphy/), [University of Colorado Boulder](https://www.colorado.edu/), advised by [Prof. Matthew R. Olm](https://www.colorado.edu/iphy/people/faculty/matthew-r-olm)  at [the Integrative Microbiome Research Laboratory](https://live-ucbdev-lab-olm.pantheonsite.io/). My research interests are microbiome, public health, and bioinformatics. Previously, I completed my Master's degree at [Shanghai Jiao Tong University School of Medicine](https://www.shsmu.edu.cn/english), and my Bachelor's degree at [Anhui Medical University](https://english.ahmu.edu.cn/). Feel free to drop me an email to chat!
 
 News
 ======
