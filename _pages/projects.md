@@ -5,9 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-Projects
-======
-
 Understanding Human Microbiome Dynamics and Host-Microbe Interactions
 ------
 Currently, our research in the [Olm Lab](https://live-ucbdev-lab-olm.pantheonsite.io/) focuses on several key aspects of human microbiome:
