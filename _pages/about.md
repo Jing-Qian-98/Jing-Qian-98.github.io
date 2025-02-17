@@ -28,22 +28,3 @@ News
 + [2024.10] Our "In Translation" article ["Hospitalization throws the preterm gut microbiome off-key"](https://doi.org/10.1016/j.chom.2024.09.009) was published in **Cell Host & Microbe**!
 + [2024.08] I am thrilled to join the [Integrative Microbiome Research Laboratory](https://live-ucbdev-lab-olm.pantheonsite.io/) at University of Colorado Boulder as a first-year Ph.D. student!
 
-Projects
-======
-
-Understanding Human Microbiome Dynamics and Host-Microbe Interactions
-------
-
-Currently, our research in the Olm Lab focuses on several key aspects of human microbiome:
-- Investigating the transmission and acquisition patterns of human microbiota
-- Examining the gut microbiome's role in early-life immune system development
-- Studying host-microbe interactions in health and disease states
-
-Previous Research
-------
-
-During my time at Shanghai Jiao Tong University, I conducted several interconnected projects examining antibiotic resistance through a One Health lens:
-
-- Developed a comprehensive sampling and analysis framework to study microbial connectivity between farm workers, livestock, and soil environments
-- Investigated the transmission patterns of antibiotic resistance genes at the human-animal-environment interfaces
-- Applied bioinformatics approaches including metagenome assembly, taxonomic classification, and pathway reconstruction
