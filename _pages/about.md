@@ -10,10 +10,10 @@ redirect_from:
 
 
 
-Biography
+Hello, I'm Jing
 ======
 
-Hello! I am a first-year Ph.D. student at [the Department of Integrative Physiology](https://www.colorado.edu/iphy/), [University of Colorado Boulder](https://www.colorado.edu/), where I am fortunate to work with [Dr. Matthew R. Olm](https://www.colorado.edu/iphy/people/faculty/matthew-r-olm) at [the Integrative Microbiome Research Laboratory](https://live-ucbdev-lab-olm.pantheonsite.io/). Our research focuses on  understanding the dynamics of human microbiome, particularly:
+I am a first-year Ph.D. student at [the Department of Integrative Physiology](https://www.colorado.edu/iphy/), [University of Colorado Boulder](https://www.colorado.edu/), where I am fortunate to work with [Dr. Matthew R. Olm](https://www.colorado.edu/iphy/people/faculty/matthew-r-olm) at [the Integrative Microbiome Research Laboratory](https://live-ucbdev-lab-olm.pantheonsite.io/). Our research focuses on  understanding the dynamics of human microbiome, particularly:
 - The transmission and acquisition patterns of human microbiota
 - The role of gut microbiome in early-life immune system development and disease
 - The complex interactions between intestinal immunity and microbiome in health and disease
