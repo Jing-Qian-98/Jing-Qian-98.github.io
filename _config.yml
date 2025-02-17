@@ -87,7 +87,7 @@ author:
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=P1HOw1gAAAAJ"
   email            : "Jing.Qian@colorado.edu"
-  researchgate     : "https://www.researchgate.net/profile/Jing-Qian-57"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -112,7 +112,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  cv               : "https://drive.google.com/file/d/1xy1ZOE_R70Ij-LB78fU0swIOhcjfUKYI/view?usp=sharing"
+  cv               : 
   twitter          : _Jing_Qian_
 # Reading Files
 include:
