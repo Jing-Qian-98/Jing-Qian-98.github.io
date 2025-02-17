@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jing Qian's homepage"
+title: "Welcome to My Research Journey"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
