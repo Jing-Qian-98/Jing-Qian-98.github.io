@@ -4,6 +4,19 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
+Projects
+======
+
+Understanding Human Microbiome Dynamics and Host-Microbe Interactions
+------
+
+Currently, our research in the Olm Lab focuses on several key aspects of human microbiome:
+- Investigating the transmission and acquisition patterns of human microbiota
+- Examining the gut microbiome's role in early-life immune system development
+- Studying host-microbe interactions in health and disease states
+
+Previous Research
+======
 
 Label combination in cause-of-death analysis (2023)
 ------
