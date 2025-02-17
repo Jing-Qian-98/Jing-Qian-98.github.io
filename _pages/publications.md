@@ -17,11 +17,11 @@ Accepted Papers
 
 Papers
 ------
-+ **Jing Qian**, Emily N Yeo, Matthew R Olm. Hospitalization throws the preterm gut microbiome off-key. ***Cell Host & Microbe***. 2024, 32(10): 1651-1653. [[View](https://www.sciencedirect.com/science/article/abs/pii/S1931312824001239)]
++ **Jing Qian**, Emily N Yeo, Matthew R Olm. Hospitalization throws the preterm gut microbiome off-key. ***Cell Host & Microbe***. 2024, 32(10): 1651-1653. [[View](https://www.cell.com/cell-host-microbe/abstract/S1931-3128(24)00353-6)]
 
-+ Weiye Chen, Yiming Chen, Zile Cheng, Yiwen Chen, Chao Lv, Lingchao Ma, Nan Zhou, **Jing Qian**, Chang Liu, Min Li, Xiaokui Guo, Yongzhang Zhu. Global patterns of syphilis, gonococcal infection, typhoid fever, paratyphoid fever, diphtheria, pertussis, tetanus, and leprosy from 1990 to 2021: findings from the Global.... ***Infectious Diseases of Poverty***. 2024, 13(1): 66. [[View](https://idpjournal.biomedcentral.com/articles/10.1186/s40249-024-01287-0)]
++ Weiye Chen, Yiming Chen, Zile Cheng, Yiwen Chen, Chao Lv, Lingchao Ma, Nan Zhou, **Jing Qian**, Chang Liu, Min Li, Xiaokui Guo, Yongzhang Zhu. Global patterns of syphilis, gonococcal infection, typhoid fever, paratyphoid fever, diphtheria, pertussis, tetanus, and leprosy from 1990 to 2021: findings from the Global Burden of Disease Study 2021. ***Infectious Diseases of Poverty***. 2024, 13(1): 66. [[View](https://link.springer.com/article/10.1186/s40249-024-01231-2)]
 
-+ Yiming Chen, Weiye Chen, Zile Cheng, Yiwen Chen, Min Li, Lingchao Ma, Nan Zhou, **Jing Qian**, Yongzhang Zhu, Chang Liu. Global burden of HIV-negative multidrug-and extensively drug-resistant tuberculosis based on Global Burden of Disease Study 2021. ***Science in One Health***. 2024, 3: 100072. [[View](https://www.sciencedirect.com/science/article/pii/S2949704323000720)]
++ Yiming Chen, Weiye Chen, Zile Cheng, Yiwen Chen, Min Li, Lingchao Ma, Nan Zhou, **Jing Qian**, Yongzhang Zhu, Chang Liu. Global burden of HIV-negative multidrug-and extensively drug-resistant tuberculosis based on Global Burden of Disease Study 2021. ***Science in One Health***. 2024, 3: 100072. [[View](https://www.sciencedirect.com/science/article/pii/S2949704324000118)]
 
 + **Jing Qian**, Zheyuan Wu, Yongzhang Zhu, Yan Zhang, Xiaokui Guo, Chang Liu. Correlation between microecology and antibiotic resistance at the pig-soil interface in Chongming District, Shanghai, China. ***Chinese Journal of Microecology***. 2024, 36(2): 135-146. [[View](https://cjm.dmu.edu.cn/article/doi/10.13381/j.cnki.cjm.202402002)]
 
