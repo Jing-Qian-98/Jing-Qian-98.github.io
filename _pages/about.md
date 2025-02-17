@@ -13,36 +13,45 @@ redirect_from:
 Biography
 ======
 
-Hello! I am a Ph.D. student at [the Department of Integrative Physiology](https://www.colorado.edu/iphy/), [University of Colorado Boulder](https://www.colorado.edu/), advised by [Prof. Matthew R. Olm](https://www.colorado.edu/iphy/people/faculty/matthew-r-olm)  at [the Integrative Microbiome Research Laboratory](https://live-ucbdev-lab-olm.pantheonsite.io/). My research interests are microbiome, public health, and bioinformatics. Previously, I completed my Master's degree at [Shanghai Jiao Tong University School of Medicine](https://www.shsmu.edu.cn/english), and my Bachelor's degree at [Anhui Medical University](https://english.ahmu.edu.cn/). Feel free to drop me an email to chat!
+Hello! I am a first-year Ph.D. student at [the Department of Integrative Physiology](https://www.colorado.edu/iphy/), [University of Colorado Boulder](https://www.colorado.edu/), where I am fortunate to work with [Dr. Matthew R. Olm](https://www.colorado.edu/iphy/people/faculty/matthew-r-olm) at [the Integrative Microbiome Research Laboratory](https://live-ucbdev-lab-olm.pantheonsite.io/). Our research focuses on  understanding the dynamics of human microbiome, particularly:
+- The transmission and acquisition patterns of human microbiota
+- The role of gut microbiome in early-life immune system development and disease
+- The complex interactions between intestinal immunity and microbiome in health and disease
+
+Previously, I completed my Master of Medicine at [Shanghai Jiao Tong University School of Medicine](https://www.shsmu.edu.cn/english), where I worked on antibiotic resistance genes and One Health surveillance. I received my Bachelor of Medicine from [Anhui Medical University](https://english.ahmu.edu.cn/).
+
+I am always excited to discuss science and potential collaborations. Feel free to reach out via email!
 
 News
 ======
-+ [2024.03] Our work Metagenomic insights into correlation of microbiota and antibiotic resistance genes in the worker-pig-soil interface: A One Health surveillance on Chongming Island, China has been submitted to **Environment International**!
++ [2025.02] Our paper "Metagenomic insights into correlation of microbiota and antibiotic resistance genes in the worker-pig-soil interface: A One Health surveillance on Chongming Island, China" has been accepted by **Journal of Hazardous Materials Advances**!
++ [2024.10] Our "In Translation" article ["Hospitalization throws the preterm gut microbiome off-key"](https://doi.org/10.1016/j.chom.2024.09.009) was published in **Cell Host & Microbe**!
++ [2024.08] I am thrilled to join the [Integrative Microbiome Research Laboratory](https://live-ucbdev-lab-olm.pantheonsite.io/) at University of Colorado Boulder as a first-year Ph.D. student!
+ <!--+ + [2024.03] Our work Metagenomic insights into correlation of microbiota and antibiotic resistance genes in the worker-pig-soil interface: A One Health surveillance on Chongming Island, China has been submitted to **Environment International**!
+
 + [2023.10] Our work [Correlation of microbiota and antibiotic resistance genes in the swine manure-soil interface in Chongming Island](https://cjm.dmu.edu.cn/article/doi/10.13381/j.cnki.cjm.202402002) was accepted by **Chinese Journal of Microecology**! 
  <!--+ [2023.9] I spent a lovely summer interning with Prof. [Zehang Richard Li](https://zehangli.com/) at UCSC.-->
-+ [2023.5] Our survey [One Health: a holistic approach for food safety in livestock](https://doi.org/10.1016/j.soh.2023.100015) was accepted by **Science in One Health**.
+ <!--+ + [2023.5] Our survey [One Health: a holistic approach for food safety in livestock](https://doi.org/10.1016/j.soh.2023.100015) was accepted by **Science in One Health**.
 + [2022.6] Our survey [Antibiotic-resistant microbes, antibiotic resistance genes and One Health](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJDAY&filename=WSWT20220610000&uniplatform=NZKPT&v=OUd6pkyNl_mYBoEWPy7JFYpJ_aai1Cz4UXLz6NqNC1VXLl0Ka50iRC_EkEGnvk4O) was accepted by **Microbiology China**.
  <!--+ [2022.6] I completed the courses [Machine Learning](https://www.coursera.org/account/accomplishments/certificate/22JZWA9PV86K) & [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/YRJ443BAU4MN) by Andrew Ng, as well as [Oxford Machine Learning Summer School](https://drive.google.com/file/d/1iTm0CgGalPPGqOmcMJ4Q_1ISzU2XmfLW/view?usp=share_link) for ML Health track.-->
 
 
 Projects
 ======
+Understanding Human Microbiome Dynamics and Host-Microbe Interactions
+------
+Currently, our research in the Olm Lab focuses on several key aspects of human microbiome:
+- Investigating the transmission and acquisition patterns of human microbiota
+- Examining the gut microbiome's role in early-life immune system development
+- Studying host-microbe interactions in health and disease states
 
-Label combination in cause-of-death analysis
+Previous Research
 ------
 
-We focus on cause-of-death analysis where post-training label combination is important if we want to yield appropriately ambiguous results without sacrificing essential information. Existing label combination methods are designed exclusively for classification tasks, so we need to extend them to tasks with a different loss like cause-of-death analysis. Our key design is to formulate the label combination problem as a new optimization problem with a proposed regularizer to control the combination degree.
-
-Microbiota and antibiotic resistance genes at human-pig-soil interface
+One Health Approach to Antibiotic Resistance
 ------
-![figure1](/images/2022_2023_project_1_2_combine.png)
-*Mapping microbial connectivity of people, animals and their environment. [[LeftFig-HighRes](https://drive.google.com/file/d/1GZnsrNatXDrxWZX9U0QeRD4sF9_KQ9X-/view?usp=sharing)] [[RightFig-HighRes](https://drive.google.com/file/d/1-SYHXCjU_5uRPG7FU51wi_iiyd4x3NiK/view?usp=drive_link)]*
+During my time at Shanghai Jiao Tong University, I conducted several interconnected projects examining antibiotic resistance through a One Health lens:
 
-We propose a unique design and epidemiological environment to sample workers, pigs, and soil from 5 farms. Our analytical pipeline includes genome assembly programs, taxonomic classifiers, read mappers, and pathway reconstruction tools. This hybrid assembly approach has lower error rates, produces more contiguous assemblies, generates metagenomic assembled genomes, and allows for the reconstruction of near-complete genomes.
-
-A survey of antibiotic resistance from a One Health perspective
-------
-![figure2](/images/2021_2022_project_3_4_review_combine.png)
-*Transmission of antibiotic resistance genes at the human-animal-environment interfaces. [[LeftFig-HighRes](https://drive.google.com/file/d/16cIZ7Mfaa-B_u8yLpAs5AyiKMAkzTewe/view?usp=drive_link)] [[RightFig-HighRes](https://drive.google.com/file/d/1sr6dpHNV0QWh3mFO11jMl0nljAhp59qS/view?usp=drive_link)]*
-
-One Health is a holistic approach to understand the complex relationships among humans, animals, and environments. This paper depicts the main pathogen spectrum of livestock and animal products, summarizes the flow of antibiotic-resistant bacteria and genes between humans and livestock along the food-chain production. With One Health framework, we advocate that multi-disciplinary efforts should be enhanced to solve this global concern on antimicrobial resistance.
+- Developed a comprehensive sampling and analysis framework to study microbial connectivity between farm workers, livestock, and soil environments
+- Investigated the transmission patterns of antibiotic resistance genes at the human-animal-environment interfaces
+- Applied bioinformatics approaches including metagenome assembly, taxonomic classification, and pathway reconstruction
