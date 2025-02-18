@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Jing Qian"
 title_separator          : "-"
 name                     : &name "Jing Qian"
 description              : &description "personal description"
