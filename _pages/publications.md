@@ -7,16 +7,12 @@ author_profile: true
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=P1HOw1gAAAAJ).
 
-Lastest Update: February 16, 2025&nbsp;
-
-
-Accepted Papers
-------
-+ **Jing Qian**, Zheyuan Wu, Lingchao Ma, Yongzhang Zhu, Yan Zhang, Min Li, Xiaokui Guo, Chang Liu. Metagenomic insights into correlation of microbiota and antibiotic resistance genes in the worker-pig-soil interface: A One Health surveillance on Chongming Island, China. ***Journal of Hazardous Materials Advances***. 2024. (Accepted)
-
+Lastest Update: February 18, 2025&nbsp;
 
 Papers
 ------
++ **Jing Qian**, Zheyuan Wu, Lingchao Ma, Yongzhang Zhu, Yan Zhang, Min Li, Xiaokui Guo, Chang Liu. Metagenomic insights into correlation of microbiota and antibiotic resistance genes in the worker-pig-soil interface: A One Health surveillance on Chongming Island, China. ***Journal of Hazardous Materials Advances***. 2025, 100648. [[View](https://doi.org/10.1016/j.hazadv.2025.100648)]
+
 + **Jing Qian**, Emily N Yeo, Matthew R Olm. Hospitalization throws the preterm gut microbiome off-key. ***Cell Host & Microbe***. 2024, 32(10): 1651-1653. [[View](https://www.cell.com/cell-host-microbe/abstract/S1931-3128(24)00353-6)]
 
 + Weiye Chen, Yiming Chen, Zile Cheng, Yiwen Chen, Chao Lv, Lingchao Ma, Nan Zhou, **Jing Qian**, Chang Liu, Min Li, Xiaokui Guo, Yongzhang Zhu. Global patterns of syphilis, gonococcal infection, typhoid fever, paratyphoid fever, diphtheria, pertussis, tetanus, and leprosy from 1990 to 2021: findings from the Global Burden of Disease Study 2021. ***Infectious Diseases of Poverty***. 2024, 13(1): 66. [[View](https://link.springer.com/article/10.1186/s40249-024-01231-2)]
