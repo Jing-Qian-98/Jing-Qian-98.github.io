@@ -11,6 +11,9 @@ Lastest Update: February 18, 2025&nbsp;
 
 Papers
 ------
+
++ Weiye Chen, Yige Zeng, Jinxin Zheng, Jing Wang, Wei Gu, Min Li, Zile Cheng, **Jing Qian**, Xiaoxi Zhang, Emmanuel Kabali, Chao Lv, Yiwen Chen, Guangrui Yang, Nan Zhou, Xiao Tan, Chendi Zhu, Hein Min Tun, Mashkoor Mohsin Gilani, Tanvir Rahman, Zhemin Zhou, Yonghong Xiao, Hong Chen, Chunlei Shi, Robert Bergquist, J. Ross Fitzgerald, Sheng Chen, Zhaojun Wang, Xiaonong Zhou, Jürg Utzinger, Xiaokui Guo, Junxia Song, Yongzhang Zhu. Informing the 2026 update of the Global Action Plan on antimicrobial resistance: a longitudinal evaluation of governance across 193 countries. ***Under review***.
+
 + **Jing Qian**, Zheyuan Wu, Lingchao Ma, Yongzhang Zhu, Yan Zhang, Min Li, Xiaokui Guo, Chang Liu. Metagenomic insights into correlation of microbiota and antibiotic resistance genes in the worker-pig-soil interface: A One Health surveillance on Chongming Island, China. ***Journal of Hazardous Materials Advances***. 2025, 100648. [[View](https://doi.org/10.1016/j.hazadv.2025.100648)]
 
 + **Jing Qian**, Emily N Yeo, Matthew R Olm. Hospitalization throws the preterm gut microbiome off-key. ***Cell Host & Microbe***. 2024, 32(10): 1651-1653. [[View](https://www.cell.com/cell-host-microbe/abstract/S1931-3128(24)00353-6)]
