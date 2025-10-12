@@ -24,6 +24,7 @@ I am always excited to discuss science and potential collaborations. Feel free t
 
 News
 ======
++ [2025.10] I presented a poster titled "Quantifying the Impact of First Foods on the Infant Gut Microbiota and Immune Health via IgA" at the **Colorado NORC Retreat**, Anschutz Medical Campus, Aurora, CO!
 + [2025.02] Our paper ["Metagenomic insights into correlation of microbiota and antibiotic resistance genes in the worker-pig-soil interface: A One Health surveillance on Chongming Island, China"](https://doi.org/10.1016/j.hazadv.2025.100648) has been accepted by **Journal of Hazardous Materials Advances**!
 + [2024.10] Our "In Translation" article ["Hospitalization throws the preterm gut microbiome off-key"](https://doi.org/10.1016/j.chom.2024.09.009) was published in **Cell Host & Microbe**!
 + [2024.08] I am thrilled to join the [Integrative Microbiome Research Laboratory](https://live-ucbdev-lab-olm.pantheonsite.io/) at University of Colorado Boulder as a first-year Ph.D. student!
