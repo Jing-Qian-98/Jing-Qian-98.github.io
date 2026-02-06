@@ -12,7 +12,7 @@ Lastest Update: February 6, 2026&nbsp;
 Papers
 ------
 
-+ Weiye Chen\*, Yige Zeng\*, Jinxin Zheng\*, Jing Wang\*, Wei Gu\*, Min Li, Zile Cheng, **Jing Qian**, Xiaoxi Zhang, Emmanuel Kabali, Chao Lv, Yiwen Chen, Guangrui Yang, Nan Zhou, Xiao Tan, Chendi Zhu, Hein Min Tun, Mashkoor Mohsin, Tanvir Rahman, Zhemin Zhou, Yonghong Xiao, Hong Chen, Chunlei Shi, Robert Bergquist, J. Ross Fitzgerald, Sheng Chen, Yunfu Chang, Zhaojun Wang, Xiaonong Zhou, Xiaokui Guo, Jürg Utzinger, Junxia Song, Yongzhang Zhu^. Evaluation of antimicrobial resistance governance across 193 countries to inform the 2026 Global Action Plan update. ***Nature Medicine***. (2026). **Accepted**.
++ Weiye Chen\*, Yige Zeng\*, Jinxin Zheng\*, Jing Wang\*, Wei Gu\*, Min Li, Zile Cheng, **Jing Qian**, Xiaoxi Zhang, Emmanuel Kabali, Chao Lv, Yiwen Chen, Guangrui Yang, Nan Zhou, Xiao Tan, Chendi Zhu, Hein Min Tun, Mashkoor Mohsin, Tanvir Rahman, Zhemin Zhou, Yonghong Xiao, Hong Chen, Chunlei Shi, Robert Bergquist, J. Ross Fitzgerald, Sheng Chen, Yunfu Chang, Zhaojun Wang, Xiaonong Zhou, Xiaokui Guo, Jürg Utzinger, Junxia Song, Yongzhang Zhu^. Evaluation of antimicrobial resistance governance across 193 countries to inform the 2026 Global Action Plan update. ***Nature Medicine***. (2026). **In press**.
   <br>*( \*: Co-first authors; ^: Corresponding author )*
 
 + **Jing Qian**, Zheyuan Wu, Lingchao Ma, Yongzhang Zhu, Yan Zhang, Min Li, Xiaokui Guo, Chang Liu. Metagenomic insights into correlation of microbiota and antibiotic resistance genes in the worker-pig-soil interface: A One Health surveillance on Chongming Island, China. ***Journal of Hazardous Materials Advances***. 2025, 100648. [[View](https://doi.org/10.1016/j.hazadv.2025.100648)]
