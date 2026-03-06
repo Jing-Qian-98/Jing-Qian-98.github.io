@@ -69,7 +69,9 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-
+social:
+  links:
+    - "https://bsky.app/profile/jingqian.bsky.social"
 
 # Analytics
 analytics:
@@ -114,6 +116,10 @@ author:
   wikipedia        :
   cv               : "https://drive.google.com/file/d/1xy1ZOE_R70Ij-LB78fU0swIOhcjfUKYI/view?usp=drive_link"
   twitter          : _Jing_Qian_
+  links:
+    - label: "Bluesky"
+      icon: "fas fa-butterfly"   # 或用其他图标，见下方说明
+      url: "https://bsky.app/profile/jingqian.bsky.social"
 # Reading Files
 include:
   - .htaccess
