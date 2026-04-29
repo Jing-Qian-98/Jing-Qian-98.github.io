@@ -9,8 +9,6 @@ author_profile: true
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;1,300&family=DM+Sans:wght@300;400&display=swap');
 
 .gallery-wrap { padding: 1.5rem 0; font-family: 'DM Sans', sans-serif; }
-
-/* ── Section header ── */
 .g-section { margin-bottom: 3rem; }
 .g-section-header { margin-bottom: 1.2rem; }
 .g-section-header h3 {
@@ -18,21 +16,17 @@ author_profile: true
   font-weight: 300; font-size: 24px;
   letter-spacing: 0.04em; color: #222; margin: 0 0 4px;
 }
-.g-section-header .g-meta {
+.g-meta {
   font-size: 12px; color: #999; letter-spacing: 0.08em;
   text-transform: uppercase; margin: 0 0 6px;
 }
 .g-award {
   display: inline-block;
   font-size: 11px; letter-spacing: 0.07em; text-transform: uppercase;
-  color: #b07d4a;
-  border: 0.5px solid #c9a06e;
-  padding: 3px 10px; border-radius: 2px;
-  margin-bottom: 10px;
+  color: #b07d4a; border: 0.5px solid #c9a06e;
+  padding: 3px 10px; border-radius: 2px; margin-bottom: 10px;
 }
 .g-divider { width: 36px; height: 1px; background: #ddd; margin-top: 10px; }
-
-/* ── Grid ── */
 .g-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -69,13 +63,10 @@ author_profile: true
 }
 .photo-item:hover .photo-title,
 .photo-item:hover .photo-caption { transform: translateY(0); }
-
 .g-hint {
   margin-top: 1rem; font-size: 12px; color: #bbb;
   letter-spacing: 0.06em; text-transform: uppercase;
 }
-
-/* ── Lightbox ── */
 .lb-backdrop {
   display: none; position: fixed; inset: 0; z-index: 9999;
   background: rgba(0,0,0,0.9);
@@ -84,8 +75,7 @@ author_profile: true
 .lb-backdrop.active { display: flex; }
 .lb-box {
   position: relative; display: flex; flex-direction: column;
-  align-items: center;
-  animation: lb-in 0.28s ease;
+  align-items: center; animation: lb-in 0.28s ease;
 }
 @keyframes lb-in {
   from { opacity: 0; transform: scale(0.95); }
@@ -96,10 +86,7 @@ author_profile: true
   height: 500px; max-height: 62vh;
   border-radius: 3px; overflow: hidden;
 }
-.lb-img-bg {
-  width: 100%; height: 100%;
-  background-size: cover; background-position: center;
-}
+.lb-img-bg { width: 100%; height: 100%; background-size: cover; background-position: center; }
 .lb-info { margin-top: 14px; text-align: center; }
 .lb-title {
   font-family: 'Cormorant Garamond', serif;
@@ -114,8 +101,7 @@ author_profile: true
   position: absolute; top: -38px; right: 0;
   background: none; border: none;
   color: rgba(255,255,255,0.5); font-size: 22px;
-  cursor: pointer; padding: 4px 8px; line-height: 1;
-  transition: color 0.2s;
+  cursor: pointer; padding: 4px 8px; line-height: 1; transition: color 0.2s;
 }
 .lb-close:hover { color: #fff; }
 .lb-nav { display: flex; gap: 18px; margin-top: 18px; }
@@ -128,15 +114,12 @@ author_profile: true
   transition: background 0.2s; font-family: 'DM Sans', sans-serif;
 }
 .lb-nav button:hover { background: rgba(255,255,255,0.18); }
-
 @media (max-width: 640px) {
   .g-grid { grid-template-columns: repeat(2, 1fr); }
 }
 </style>
 
 <div class="gallery-wrap">
-
-  <!-- ═══ Lillian Fountain-Smith Conference 2026 ═══ -->
   <div class="g-section">
     <div class="g-section-header">
       <span class="g-award">🏆 Best Abstract Award</span>
@@ -150,12 +133,8 @@ author_profile: true
     <div class="g-grid" id="lfsGrid"></div>
     <p class="g-hint">Click any photo to enlarge &nbsp;·&nbsp; ← → to navigate</p>
   </div>
-
-  <!-- ═══ Add more event sections below following the same pattern ═══ -->
-
 </div>
 
-<!-- Lightbox (shared across all sections) -->
 <div class="lb-backdrop" id="lbBackdrop">
   <div class="lb-box">
     <button class="lb-close" id="lbClose">✕</button>
@@ -172,97 +151,75 @@ author_profile: true
     </div>
   </div>
 </div>
-{% raw %}
+
 <script>
-// ═══════════════════════════════════════════════════════════════
-//  SECTION: Lillian Fountain-Smith Conference 2026
-//
-//  Layout (3-column grid, all photos horizontal):
-//  ┌─────────────────────────────────────────┐  ← Photo 1 (full width hero)
-//  ├───────────────────────┬─────────────────┤
-//  │   Photo 2 (2 cols)    │    Photo 3      │
-//  ├─────────────────┬─────┴─────────────────┤
-//  │    Photo 4      │   Photo 5 (2 cols)    │
-//  └─────────────────┴───────────────────────┘
-// ═══════════════════════════════════════════════════════════════
-const lfsPhotos = [
-  {
-    url:     "/images/gallery/LFS4.JPG",
-    title:   "Lightning Talk",
-    caption: "Lillian Fountain-Smith Conference · April 2026",
-    col: "span 3", height: "240px"
-  },
-  {
-    url:     "/images/gallery/LFS1.JPG",
-    title:   "Lightning Talk",
-    caption: "Lillian Fountain-Smith Conference · April 2026",
-    col: "span 2", height: "185px"
-  },
-  {
-    url:     "/images/gallery/LFS2.JPG",
-    title:   "Best Abstract Award",
-    caption: "Lillian Fountain-Smith Conference · April 2026",
-    col: "",       height: "185px"
-  },
-  {
-    url:     "/images/gallery/LFS3.JPG",
-    title:   "Lightning Talk",
-    caption: "Lillian Fountain-Smith Conference · April 2026",
-    col: "",       height: "185px"
-  },
-  {
-    url:     "/images/gallery/LFS5.JPG",
-    title:   "Lightning Talk",
-    caption: "Lillian Fountain-Smith Conference · April 2026",
-    col: "span 2", height: "185px"
-  }
+var lfsPhotos = [
+  { url: "/images/gallery/LFS4.JPG", title: "Lightning Talk",      caption: "Lillian Fountain-Smith Conference · April 2026", col: "span 3", height: "240px" },
+  { url: "/images/gallery/LFS1.JPG", title: "Poster Presentation", caption: "Fort Collins, CO",                               col: "span 2", height: "185px" },
+  { url: "/images/gallery/LFS2.JPG", title: "Best Abstract Award", caption: "IgA & Infant Gut Microbiome",                   col: "",       height: "185px" },
+  { url: "/images/gallery/LFS3.JPG", title: "At the Conference",   caption: "April 16-17, 2026",                             col: "",       height: "185px" },
+  { url: "/images/gallery/LFS5.JPG", title: "With the Team",       caption: "Olm Lab · CU Boulder",                         col: "span 2", height: "185px" }
 ];
 
-// ── Build grid ──
 function buildGrid(containerId, arr) {
-  const grid = document.getElementById(containerId);
-  arr.forEach((p, i) => {
-    const item = document.createElement('div');
+  var grid = document.getElementById(containerId);
+  for (var i = 0; i < arr.length; i++) {
+    var p = arr[i];
+    var item = document.createElement('div');
     item.className = 'photo-item';
     item.style.height = p.height;
-    if (p.col) item.style.gridColumn = p.col;
-    item.innerHTML = `
-      <div class="photo-bg" style="background-image:url('${p.url}')"></div>
-      <div class="photo-overlay">
-        <p class="photo-title">${p.title}</p>
-        <p class="photo-caption">${p.caption}</p>
-      </div>`;
-    item.addEventListener('click', () => openLB(arr, i));
+    if (p.col) { item.style.gridColumn = p.col; }
+    var bg = document.createElement('div');
+    bg.className = 'photo-bg';
+    bg.style.backgroundImage = "url('" + p.url + "')";
+    var overlay = document.createElement('div');
+    overlay.className = 'photo-overlay';
+    var titleEl = document.createElement('p');
+    titleEl.className = 'photo-title';
+    titleEl.textContent = p.title;
+    var captionEl = document.createElement('p');
+    captionEl.className = 'photo-caption';
+    captionEl.textContent = p.caption;
+    overlay.appendChild(titleEl);
+    overlay.appendChild(captionEl);
+    item.appendChild(bg);
+    item.appendChild(overlay);
+    (function(arr, idx) {
+      item.addEventListener('click', function() { openLB(arr, idx); });
+    })(arr, i);
     grid.appendChild(item);
-  });
+  }
 }
+
 buildGrid('lfsGrid', lfsPhotos);
 
-// ── Lightbox ──
-let curArr = [], cur = 0;
-const backdrop  = document.getElementById('lbBackdrop');
-const lbImg     = document.getElementById('lbImg');
-const lbTitle   = document.getElementById('lbTitle');
-const lbCaption = document.getElementById('lbCaption');
+var curArr = [];
+var cur = 0;
+var backdrop  = document.getElementById('lbBackdrop');
+var lbImg     = document.getElementById('lbImg');
+var lbTitle   = document.getElementById('lbTitle');
+var lbCaption = document.getElementById('lbCaption');
 
 function render() {
-  const p = curArr[cur];
-  lbImg.style.backgroundImage = `url('${p.url}')`;
+  var p = curArr[cur];
+  lbImg.style.backgroundImage = "url('" + p.url + "')";
   lbTitle.textContent   = p.title;
   lbCaption.textContent = p.caption;
 }
-function openLB(arr, i) { curArr = arr; cur = i; render(); backdrop.classList.add('active'); }
-function closeLB()       { backdrop.classList.remove('active'); }
+function openLB(arr, i) {
+  curArr = arr; cur = i; render();
+  backdrop.classList.add('active');
+}
+function closeLB() { backdrop.classList.remove('active'); }
 
 document.getElementById('lbClose').onclick = closeLB;
-backdrop.addEventListener('click', e => { if (e.target === backdrop) closeLB(); });
-document.getElementById('lbPrev').onclick  = () => { cur = (cur - 1 + curArr.length) % curArr.length; render(); };
-document.getElementById('lbNext').onclick  = () => { cur = (cur + 1) % curArr.length; render(); };
-document.addEventListener('keydown', e => {
-  if (!backdrop.classList.contains('active')) return;
-  if (e.key === 'Escape')     closeLB();
+backdrop.addEventListener('click', function(e) { if (e.target === backdrop) { closeLB(); } });
+document.getElementById('lbPrev').onclick = function() { cur = (cur - 1 + curArr.length) % curArr.length; render(); };
+document.getElementById('lbNext').onclick = function() { cur = (cur + 1) % curArr.length; render(); };
+document.addEventListener('keydown', function(e) {
+  if (!backdrop.classList.contains('active')) { return; }
+  if (e.key === 'Escape')     { closeLB(); }
   if (e.key === 'ArrowLeft')  { cur = (cur - 1 + curArr.length) % curArr.length; render(); }
   if (e.key === 'ArrowRight') { cur = (cur + 1) % curArr.length; render(); }
 });
 </script>
-{% endraw %}
