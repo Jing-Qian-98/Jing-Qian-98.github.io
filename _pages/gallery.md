@@ -172,7 +172,7 @@ author_profile: true
     </div>
   </div>
 </div>
-
+{% raw %}
 <script>
 // ═══════════════════════════════════════════════════════════════
 //  SECTION: Lillian Fountain-Smith Conference 2026
@@ -265,3 +265,4 @@ document.addEventListener('keydown', e => {
   if (e.key === 'ArrowRight') { cur = (cur + 1) % curArr.length; render(); }
 });
 </script>
+{% endraw %}
