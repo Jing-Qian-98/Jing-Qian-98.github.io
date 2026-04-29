@@ -9,7 +9,7 @@ author_profile: true
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;1,300&family=DM+Sans:wght@300;400&display=swap');
 
 .gallery-wrap { padding: 1.5rem 0; font-family: 'DM Sans', sans-serif; }
-.g-section { margin-bottom: 3rem; }
+.g-section { margin-bottom: 3.5rem; }
 .g-section-header { margin-bottom: 1.2rem; }
 .g-section-header h3 {
   font-family: 'Cormorant Garamond', serif;
@@ -26,7 +26,17 @@ author_profile: true
   color: #b07d4a; border: 0.5px solid #c9a06e;
   padding: 3px 10px; border-radius: 2px; margin-bottom: 10px;
 }
+.g-tag {
+  display: inline-block;
+  font-size: 11px; letter-spacing: 0.07em; text-transform: uppercase;
+  color: #5a7a8a; border: 0.5px solid #8aacbc;
+  padding: 3px 10px; border-radius: 2px; margin-bottom: 10px;
+}
 .g-divider { width: 36px; height: 1px; background: #ddd; margin-top: 10px; }
+.g-sub {
+  font-size: 12px; letter-spacing: 0.07em; text-transform: uppercase;
+  color: #aaa; margin: 16px 0 8px; font-family: 'DM Sans', sans-serif;
+}
 .g-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -120,6 +130,26 @@ author_profile: true
 </style>
 
 <div class="gallery-wrap">
+
+  <!-- ═══ MDRS 2026 ═══ -->
+  <div class="g-section">
+    <div class="g-section-header">
+      <span class="g-tag">🚀 ASEN 5226 · Medicine in Space</span>
+      <h3>Mars Desert Research Station</h3>
+      <p class="g-meta">March 2026 &nbsp;·&nbsp; Hanksville, UT</p>
+      <p style="font-size:13px; color:#666; margin:6px 0 0; max-width:600px; line-height:1.65;">
+        <em>Extravehicular Activity (EVA) simulations at the MDRS habitat as part of ASEN 5226 — Medicine in Space and Surface Environments.</em>
+      </p>
+      <div class="g-divider"></div>
+    </div>
+    <p class="g-sub">EVA &amp; Habitat</p>
+    <div class="g-grid" id="mdrsGrid"></div>
+    <p class="g-sub" style="margin-top:20px;">Aerial · DJI</p>
+    <div class="g-grid" id="droneGrid"></div>
+    <p class="g-hint">Click any photo to enlarge &nbsp;·&nbsp; ← → to navigate</p>
+  </div>
+
+  <!-- ═══ Lillian Fountain-Smith Conference 2026 ═══ -->
   <div class="g-section">
     <div class="g-section-header">
       <span class="g-award">🏆 Best Abstract Award</span>
@@ -133,6 +163,7 @@ author_profile: true
     <div class="g-grid" id="lfsGrid"></div>
     <p class="g-hint">Click any photo to enlarge &nbsp;·&nbsp; ← → to navigate</p>
   </div>
+
 </div>
 
 <div class="lb-backdrop" id="lbBackdrop">
@@ -153,14 +184,47 @@ author_profile: true
 </div>
 
 <script>
-var lfsPhotos = [
-  { url: "/images/gallery/LFS4.JPG", title: "Lightning Talk",      caption: "Fort Collins, CO", col: "span 3", height: "240px" },
-  { url: "/images/gallery/LFS1.JPG", title: "Lightning Talk", caption: "Fort Collins, CO",                               col: "span 2", height: "220px" },
-  { url: "/images/gallery/LFS2.JPG", title: "Lightning Talk", caption: "Fort Collins, CO",                   col: "",       height: "220px" },
-  { url: "/images/gallery/LFS3.JPG", title: "Lightning Talke",   caption: "Fort Collins, CO",                             col: "",       height: "220px" },
-  { url: "/images/gallery/LFS5.JPG", title: "Lightning Talk",       caption: "Fort Collins, CO",                         col: "span 2", height: "220px" }
+// ── MDRS EVA photos (12 photos) ──
+// Layout:
+//   01.JPG          → hero, span 3, 220px
+//   02.jpeg 03.JPG  → 1+1, 180px (then 04 starts next row)
+//   04.JPG          → continues row: span 1
+//   05.JPG span 2 + 06.JPG → 180px
+//   07.JPG + 08.JPG span 2 → 180px
+//   09.JPG + IMG_7897 + IMG_8234 → 180px
+//   IMG_9942 span 3 → 160px wide hero at bottom
+var mdrsPhotos = [
+  { url: "/images/gallery/MDRS/01.JPG",              title: "MDRS · March 2026",    caption: "Hanksville, UT",  col: "span 3", height: "220px" },
+  { url: "/images/gallery/MDRS/02.jpeg",             title: "MDRS · March 2026",         caption: "Hanksville, UT",       col: "",       height: "180px" },
+  { url: "/images/gallery/MDRS/03.JPG",              title: "MDRS · March 2026",     caption: "Hanksville, UT",         col: "",       height: "180px" },
+  { url: "/images/gallery/MDRS/04.JPG",              title: "MDRS · March 2026",       caption: "Hanksville, UT",     col: "",       height: "180px" },
+  { url: "/images/gallery/MDRS/05.JPG",              title: "MDRS · March 2026",           caption: "Hanksville, UT",          col: "span 2", height: "180px" },
+  { url: "/images/gallery/MDRS/06.JPG",              title: "MDRS · March 2026",   caption: "Hanksville, UT",  col: "",       height: "180px" },
+  { url: "/images/gallery/MDRS/07.JPG",              title: "MDRS · March 2026", caption: "Hanksville, UT",         col: "",       height: "180px" },
+  { url: "/images/gallery/MDRS/08.JPG",              title: "MDRS · March 2026",         caption: "Hanksville, UT",          col: "span 2", height: "180px" },
+  { url: "/images/gallery/MDRS/09.JPG",              title: "MDRS · March 2026",           caption: "Hanksville, UT",     col: "",       height: "180px" },
+  { url: "/images/gallery/MDRS/IMG_7897%202.jpeg",   title: "MDRS · March 2026",            caption: "Hanksville, UT",  col: "",       height: "180px" },
+  { url: "/images/gallery/MDRS/IMG_8234%202.jpeg",   title: "MDRS · March 2026",               caption: "Hanksville, UT",          col: "",       height: "180px" },
+  { url: "/images/gallery/MDRS/IMG_9942%202.jpeg",   title: "MDRS · March 2026",         caption: "Hanksville, UT",     col: "span 3", height: "160px" }
 ];
 
+// ── Drone / aerial photos (3 photos) ──
+var dronePhotos = [
+  { url: "/images/gallery/MDRS/dji_fly_01.JPG", title: "Aerial View I",   caption: "DJI · MDRS", col: "span 2", height: "200px" },
+  { url: "/images/gallery/MDRS/dji_fly_02.JPG", title: "Aerial View II",  caption: "DJI · MDRS", col: "",       height: "200px" },
+  { url: "/images/gallery/MDRS/dji_fly_03.JPG", title: "Aerial View III", caption: "DJI · MDRS", col: "span 3", height: "200px" }
+];
+
+// ── LFS Conference photos (5 photos) ──
+var lfsPhotos = [
+  { url: "/images/gallery/LFS4.JPG", title: "Lightning Talk",      caption: "Fort Collins, CO · April 2026", col: "span 3", height: "240px" },
+  { url: "/images/gallery/LFS1.JPG", title: "Lightning Talk", caption: "Fort Collins, CO · April 2026",                               col: "span 2", height: "240px" },
+  { url: "/images/gallery/LFS2.JPG", title: "Lightning Talk", caption: "Fort Collins, CO · April 2026",                   col: "",       height: "240px" },
+  { url: "/images/gallery/LFS3.JPG", title: "Lightning Talk",   caption: "Fort Collins, CO · April 2026",                             col: "",       height: "240px" },
+  { url: "/images/gallery/LFS5.JPG", title: "Lightning Talk",       caption: "Fort Collins, CO · April 2026",                         col: "span 2", height: "240px" }
+];
+
+// ── Build grid ──
 function buildGrid(containerId, arr) {
   var grid = document.getElementById(containerId);
   for (var i = 0; i < arr.length; i++) {
@@ -184,15 +248,18 @@ function buildGrid(containerId, arr) {
     overlay.appendChild(captionEl);
     item.appendChild(bg);
     item.appendChild(overlay);
-    (function(arr, idx) {
-      item.addEventListener('click', function() { openLB(arr, idx); });
+    (function(a, idx) {
+      item.addEventListener('click', function() { openLB(a, idx); });
     })(arr, i);
     grid.appendChild(item);
   }
 }
 
-buildGrid('lfsGrid', lfsPhotos);
+buildGrid('mdrsGrid',  mdrsPhotos);
+buildGrid('droneGrid', dronePhotos);
+buildGrid('lfsGrid',   lfsPhotos);
 
+// ── Lightbox ──
 var curArr = [];
 var cur = 0;
 var backdrop  = document.getElementById('lbBackdrop');
