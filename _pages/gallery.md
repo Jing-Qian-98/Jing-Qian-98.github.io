@@ -187,31 +187,31 @@ author_profile: true
 // ═══════════════════════════════════════════════════════════════
 const lfsPhotos = [
   {
-    url:     "https://drive.google.com/thumbnail?id=1aJmt5WFQYkUBn96nqX0GkHkqSghg6vMY&sz=w1200",
+    url:     "/images/gallery/LFS4.jpg",
     title:   "Lightning Talk",
     caption: "Lillian Fountain-Smith Conference · April 2026",
     col: "span 3", height: "240px"
   },
   {
-    url:     "https://drive.google.com/thumbnail?id=1AFzdsTFsmrDMcLH2eSSjtK4bgJx-lqPm&sz=w1200",
+    url:     "/images/gallery/LFS1.jpg",
     title:   "Lightning Talk",
     caption: "Lillian Fountain-Smith Conference · April 2026",
     col: "span 2", height: "185px"
   },
   {
-    url:     "https://drive.google.com/thumbnail?id=1DHhOxRpBTFeJ6ZQBE-R18vLqHVlI4UTq&sz=w1200",
+    url:     "/images/gallery/LFS2.jpg",
     title:   "Best Abstract Award",
     caption: "Lillian Fountain-Smith Conference · April 2026",
     col: "",       height: "185px"
   },
   {
-    url:     "https://drive.google.com/thumbnail?id=1rcDK4FNJlFk8Iud4YIRwMC_A4jJlM4Di&sz=w1200",
+    url:     "/images/gallery/LFS3.jpg",
     title:   "Lightning Talk",
     caption: "Lillian Fountain-Smith Conference · April 2026",
     col: "",       height: "185px"
   },
   {
-    url:     "https://drive.google.com/thumbnail?id=1hVrXqyLAGUxiz-brUmI9-EaBwzzzs9bz&sz=w1200",
+    url:     "/images/gallery/LFS5.jpg",
     title:   "Lightning Talk",
     caption: "Lillian Fountain-Smith Conference · April 2026",
     col: "span 2", height: "185px"
