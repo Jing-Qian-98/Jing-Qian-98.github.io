@@ -187,33 +187,33 @@ author_profile: true
 // ═══════════════════════════════════════════════════════════════
 const lfsPhotos = [
   {
-    url:     "https://drive.google.com/uc?export=view&id=1rcDK4FNJlFk8Iud4YIRwMC_A4jJlM4Di",
+    url:     "https://drive.google.com/thumbnail?id=1aJmt5WFQYkUBn96nqX0GkHkqSghg6vMY&sz=w1200",
     title:   "Lightning Talk",
     caption: "Lillian Fountain-Smith Conference · April 2026",
     col: "span 3", height: "240px"
   },
   {
-    url:     "https://drive.google.com/uc?export=view&id=1AFzdsTFsmrDMcLH2eSSjtK4bgJx-lqPm",
-    title:   "Poster Presentation",
-    caption: "Fort Collins, CO",
+    url:     "https://drive.google.com/thumbnail?id=1AFzdsTFsmrDMcLH2eSSjtK4bgJx-lqPm&sz=w1200",
+    title:   "Lightning Talk",
+    caption: "Lillian Fountain-Smith Conference · April 2026",
     col: "span 2", height: "185px"
   },
   {
-    url:     "https://drive.google.com/uc?export=view&id=1DHhOxRpBTFeJ6ZQBE-R18vLqHVlI4UTq",
-    title:   "At the Conference",
-    caption: "April 16–17, 2026",
-    col: "",       height: "185px"
-  },
-  {
-    url:     "https://drive.google.com/uc?export=view&id=1aJmt5WFQYkUBn96nqX0GkHkqSghg6vMY",
+    url:     "https://drive.google.com/thumbnail?id=1DHhOxRpBTFeJ6ZQBE-R18vLqHVlI4UTq&sz=w1200",
     title:   "Best Abstract Award",
-    caption: "IgA & Infant Gut Microbiome",
+    caption: "Lillian Fountain-Smith Conference · April 2026",
     col: "",       height: "185px"
   },
   {
-    url:     "https://drive.google.com/uc?export=view&id=1hVrXqyLAGUxiz-brUmI9-EaBwzzzs9bz",
-    title:   "With the Team",
-    caption: "Olm Lab · CU Boulder",
+    url:     "https://drive.google.com/thumbnail?id=1rcDK4FNJlFk8Iud4YIRwMC_A4jJlM4Di&sz=w1200",
+    title:   "Lightning Talk",
+    caption: "Lillian Fountain-Smith Conference · April 2026",
+    col: "",       height: "185px"
+  },
+  {
+    url:     "https://drive.google.com/thumbnail?id=1hVrXqyLAGUxiz-brUmI9-EaBwzzzs9bz&sz=w1200",
+    title:   "Lightning Talk",
+    caption: "Lillian Fountain-Smith Conference · April 2026",
     col: "span 2", height: "185px"
   }
 ];
