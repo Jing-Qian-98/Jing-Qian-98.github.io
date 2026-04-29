@@ -4,9 +4,11 @@ main:
 
   - title: "Projects"
     url: /projects/
+    
+  - title: "Gallery"
+  url: /gallery/
+
         
  # - title: "Blogs"
  #   url: /year-archive/
     
-- title: "Gallery"
-  url: /gallery/
