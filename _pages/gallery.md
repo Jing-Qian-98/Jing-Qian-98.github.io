@@ -187,31 +187,31 @@ author_profile: true
 // ═══════════════════════════════════════════════════════════════
 const lfsPhotos = [
   {
-    url:     "/images/gallery/LFS4.jpg",
+    url:     "/images/gallery/LFS4.JPG",
     title:   "Lightning Talk",
     caption: "Lillian Fountain-Smith Conference · April 2026",
     col: "span 3", height: "240px"
   },
   {
-    url:     "/images/gallery/LFS1.jpg",
+    url:     "/images/gallery/LFS1.JPG",
     title:   "Lightning Talk",
     caption: "Lillian Fountain-Smith Conference · April 2026",
     col: "span 2", height: "185px"
   },
   {
-    url:     "/images/gallery/LFS2.jpg",
+    url:     "/images/gallery/LFS2.JPG",
     title:   "Best Abstract Award",
     caption: "Lillian Fountain-Smith Conference · April 2026",
     col: "",       height: "185px"
   },
   {
-    url:     "/images/gallery/LFS3.jpg",
+    url:     "/images/gallery/LFS3.JPG",
     title:   "Lightning Talk",
     caption: "Lillian Fountain-Smith Conference · April 2026",
     col: "",       height: "185px"
   },
   {
-    url:     "/images/gallery/LFS5.jpg",
+    url:     "/images/gallery/LFS5.JPG",
     title:   "Lightning Talk",
     caption: "Lillian Fountain-Smith Conference · April 2026",
     col: "span 2", height: "185px"
