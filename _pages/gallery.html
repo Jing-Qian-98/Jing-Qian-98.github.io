@@ -133,6 +133,20 @@ author_profile: true
 
   <div class="g-section">
     <div class="g-section-header">
+      <span class="g-award">&#x1F3C6; Best Abstract Award</span>
+      <h3>Lillian Fountain-Smith Conference 2026</h3>
+      <p class="g-meta">April 16&ndash;17, 2026 &nbsp;&middot;&nbsp; Fort Collins, CO</p>
+      <p style="font-size:13px; color:#666; margin:6px 0 0; max-width:600px; line-height:1.65;">
+        <em>IgA Targeting in the Infant Gut Is Modulated by Diet and Increasingly Directed Towards Persistent Species</em>
+      </p>
+      <div class="g-divider"></div>
+    </div>
+    <div class="g-grid" id="lfsGrid"></div>
+    <p class="g-hint">Click any photo to enlarge &nbsp;&middot;&nbsp; &larr; &rarr; to navigate</p>
+  </div>
+
+  <div class="g-section">
+    <div class="g-section-header">
       <span class="g-tag">&#x1F680; ASEN 5226 &middot; Medicine in Space</span>
       <h3>Mars Desert Research Station</h3>
       <p class="g-meta">March 2026 &nbsp;&middot;&nbsp; Hanksville, UT</p>
@@ -145,20 +159,6 @@ author_profile: true
     <div class="g-grid" id="mdrsGrid"></div>
     <p class="g-sub" style="margin-top:20px;">Aerial &middot; DJI</p>
     <div class="g-grid" id="droneGrid"></div>
-    <p class="g-hint">Click any photo to enlarge &nbsp;&middot;&nbsp; &larr; &rarr; to navigate</p>
-  </div>
-
-  <div class="g-section">
-    <div class="g-section-header">
-      <span class="g-award">&#x1F3C6; Best Abstract Award</span>
-      <h3>Lillian Fountain-Smith Conference 2026</h3>
-      <p class="g-meta">April 16&ndash;17, 2026 &nbsp;&middot;&nbsp; Fort Collins, CO</p>
-      <p style="font-size:13px; color:#666; margin:6px 0 0; max-width:600px; line-height:1.65;">
-        <em>IgA Targeting in the Infant Gut Is Modulated by Diet and Increasingly Directed Towards Persistent Species</em>
-      </p>
-      <div class="g-divider"></div>
-    </div>
-    <div class="g-grid" id="lfsGrid"></div>
     <p class="g-hint">Click any photo to enlarge &nbsp;&middot;&nbsp; &larr; &rarr; to navigate</p>
   </div>
 
@@ -183,18 +183,23 @@ author_profile: true
 
 <script>
 var mdrsPhotos = [
+  // Row 1: hero
   { url: "/images/gallery/MDRS/01.JPG",            title: "MDRS - March 2026", caption: "Hanksville, UT", col: "span 3", height: "220px" },
-  { url: "/images/gallery/MDRS/02.jpeg",            title: "MDRS - March 2026", caption: "Hanksville, UT", col: "",       height: "180px" },
-  { url: "/images/gallery/MDRS/03.JPG",             title: "MDRS - March 2026", caption: "Hanksville, UT", col: "",       height: "180px" },
-  { url: "/images/gallery/MDRS/04.JPG",             title: "MDRS - March 2026", caption: "Hanksville, UT", col: "",       height: "180px" },
-  { url: "/images/gallery/MDRS/05.JPG",             title: "MDRS - March 2026", caption: "Hanksville, UT", col: "span 2", height: "180px" },
-  { url: "/images/gallery/MDRS/06.JPG",             title: "MDRS - March 2026", caption: "Hanksville, UT", col: "",       height: "180px" },
-  { url: "/images/gallery/MDRS/07.JPG",             title: "MDRS - March 2026", caption: "Hanksville, UT", col: "",       height: "180px" },
-  { url: "/images/gallery/MDRS/08.JPG",             title: "MDRS - March 2026", caption: "Hanksville, UT", col: "span 2", height: "180px" },
-  { url: "/images/gallery/MDRS/09.JPG",             title: "MDRS - March 2026", caption: "Hanksville, UT", col: "",       height: "180px" },
+  // Row 2: 02(landscape) | 03(portrait) | 04(landscape) — row height 300px for portrait
+  { url: "/images/gallery/MDRS/02.jpeg",            title: "MDRS - March 2026", caption: "Hanksville, UT", col: "",       height: "300px" },
+  { url: "/images/gallery/MDRS/03.JPG",             title: "MDRS - March 2026", caption: "Hanksville, UT", col: "",       height: "300px" },
+  { url: "/images/gallery/MDRS/04.JPG",             title: "MDRS - March 2026", caption: "Hanksville, UT", col: "",       height: "300px" },
+  // Row 3: 05(landscape, span2) | 06(portrait) — row height 300px for portrait
+  { url: "/images/gallery/MDRS/05.JPG",             title: "MDRS - March 2026", caption: "Hanksville, UT", col: "span 2", height: "300px" },
+  { url: "/images/gallery/MDRS/06.JPG",             title: "MDRS - March 2026", caption: "Hanksville, UT", col: "",       height: "300px" },
+  // Row 4: 07(landscape) | 08(portrait, 1col) | 09(landscape) — row height 300px for portrait
+  { url: "/images/gallery/MDRS/07.JPG",             title: "MDRS - March 2026", caption: "Hanksville, UT", col: "",       height: "300px" },
+  { url: "/images/gallery/MDRS/08.JPG",             title: "MDRS - March 2026", caption: "Hanksville, UT", col: "",       height: "300px" },
+  { url: "/images/gallery/MDRS/09.JPG",             title: "MDRS - March 2026", caption: "Hanksville, UT", col: "",       height: "300px" },
+  // Row 5: remaining landscape photos
   { url: "/images/gallery/MDRS/IMG_7897%202.jpeg",  title: "MDRS - March 2026", caption: "Hanksville, UT", col: "",       height: "180px" },
-  { url: "/images/gallery/MDRS/IMG_8234%202.jpeg",  title: "MDRS - March 2026", caption: "Hanksville, UT", col: "",       height: "180px" },
-  { url: "/images/gallery/MDRS/IMG_9942%202.jpeg",  title: "MDRS - March 2026", caption: "Hanksville, UT", col: "span 3", height: "160px" }
+  { url: "/images/gallery/MDRS/IMG_8234%202.jpeg",  title: "MDRS - March 2026", caption: "Hanksville, UT", col: "span 2", height: "180px" },
+  { url: "/images/gallery/MDRS/IMG_9942%202.jpeg",  title: "MDRS - March 2026", caption: "Hanksville, UT", col: "span 3", height: "180px" }
 ];
 
 var dronePhotos = [
