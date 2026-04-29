@@ -1,14 +1,7 @@
 main:
   - title: "Publications"
     url: /publications/ 
-
   - title: "Projects"
     url: /projects/
-    
   - title: "Gallery"
-  url: /gallery/
-
-        
- # - title: "Blogs"
- #   url: /year-archive/
-    
+    url: /gallery/
