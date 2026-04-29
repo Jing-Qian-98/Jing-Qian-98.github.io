@@ -8,3 +8,5 @@ main:
  # - title: "Blogs"
  #   url: /year-archive/
     
+- title: "Gallery"
+  url: /gallery/
