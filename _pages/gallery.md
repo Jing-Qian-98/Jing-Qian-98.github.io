@@ -154,11 +154,11 @@ author_profile: true
 
 <script>
 var lfsPhotos = [
-  { url: "/images/gallery/LFS4.JPG", title: "Lightning Talk",      caption: "Lillian Fountain-Smith Conference · April 2026", col: "span 3", height: "240px" },
-  { url: "/images/gallery/LFS1.JPG", title: "Poster Presentation", caption: "Fort Collins, CO",                               col: "span 2", height: "220px" },
-  { url: "/images/gallery/LFS2.JPG", title: "Best Abstract Award", caption: "IgA & Infant Gut Microbiome",                   col: "",       height: "220px" },
-  { url: "/images/gallery/LFS3.JPG", title: "At the Conference",   caption: "April 16-17, 2026",                             col: "",       height: "220px" },
-  { url: "/images/gallery/LFS5.JPG", title: "With the Team",       caption: "Olm Lab · CU Boulder",                         col: "span 2", height: "220px" }
+  { url: "/images/gallery/LFS4.JPG", title: "Lightning Talk",      caption: "Fort Collins, CO", col: "span 3", height: "240px" },
+  { url: "/images/gallery/LFS1.JPG", title: "Lightning Talk", caption: "Fort Collins, CO",                               col: "span 2", height: "220px" },
+  { url: "/images/gallery/LFS2.JPG", title: "Lightning Talk", caption: "Fort Collins, CO",                   col: "",       height: "220px" },
+  { url: "/images/gallery/LFS3.JPG", title: "Lightning Talke",   caption: "Fort Collins, CO",                             col: "",       height: "220px" },
+  { url: "/images/gallery/LFS5.JPG", title: "Lightning Talk",       caption: "Fort Collins, CO",                         col: "span 2", height: "220px" }
 ];
 
 function buildGrid(containerId, arr) {
