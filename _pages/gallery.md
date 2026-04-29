@@ -184,15 +184,6 @@ author_profile: true
 </div>
 
 <script>
-// ── MDRS EVA photos (12 photos) ──
-// Layout:
-//   01.JPG          → hero, span 3, 220px
-//   02.jpeg 03.JPG  → 1+1, 180px (then 04 starts next row)
-//   04.JPG          → continues row: span 1
-//   05.JPG span 2 + 06.JPG → 180px
-//   07.JPG + 08.JPG span 2 → 180px
-//   09.JPG + IMG_7897 + IMG_8234 → 180px
-//   IMG_9942 span 3 → 160px wide hero at bottom
 var mdrsPhotos = [
   { url: "/images/gallery/MDRS/01.JPG",              title: "MDRS · March 2026",    caption: "Hanksville, UT",  col: "span 3", height: "220px" },
   { url: "/images/gallery/MDRS/02.jpeg",             title: "MDRS · March 2026",         caption: "Hanksville, UT",       col: "",       height: "180px" },
