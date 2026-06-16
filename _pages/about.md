@@ -24,6 +24,8 @@ I am always excited to discuss science and potential collaborations. Feel free t
 
 News
 ======
++ [2026.05] Our new preprint ["IgA Targeting in the Infant Gut Is Modulated by Diet and Increasingly Directed Towards Persistent Species"](https://www.biorxiv.org/content/10.64898/2026.05.19.726352v1.abstract) is now available on **bioRxiv**!
++ [2026.04] I received the 🏆 **Best Abstract Award** at the **Lillian Fountain-Smith Conference 2026** (April 16–17, Fort Collins, CO) for "IgA Targeting in the Infant Gut Is Modulated by Diet and Increasingly Directed Towards Persistent Species." I also had a wonderful time delivering a 15-minute Lightning Talk and discussing nutrition science with everyone!
 + [2026.03] Our paper ["Evaluation of antimicrobial resistance governance across 193 countries to inform the 2026 Global Action Plan update"](https://doi.org/10.1038/s41591-026-04257-1) is now published online in **Nature Medicine**!
 + [2026.01] I attended the microbiome data science workshop hosted by **the Mountain West Microbiome Alliance (MoWMA)** in Salt Lake City, UT (January 26-29, 2026). Thank you to **the MoWMA workshop team (Greg Caporaso, Seth Walk, Cathy Lozupone, Jeff Meilander, Colin Wood, Chloe Herman, John O'Conner, and Nick Pinkham)** for the excellent training!
 + [2026.01] I presented a poster titled "Quantifying the Impact of First Foods on the Infant Gut Microbiota and Immune Health via IgA" at the **2026 Winter Pediatric Research Poster Session** hosted by Colorado Clinical & Translational Research Sciences Institute (CCTSI) at Children's Hospital on the Anschutz Medical Campus, Aurora, CO!
