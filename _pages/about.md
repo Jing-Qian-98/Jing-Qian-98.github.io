@@ -13,7 +13,7 @@ redirect_from:
 Hello, I'm Jing
 ======
 
-I am a second-year Ph.D. student at [the Department of Integrative Physiology](https://www.colorado.edu/iphy/), [University of Colorado Boulder](https://www.colorado.edu/), where I am fortunate to work with [Dr. Matthew R. Olm](https://www.colorado.edu/iphy/people/faculty/matthew-r-olm) at [the Integrative Microbiome Research Laboratory](https://live-ucbdev-lab-olm.pantheonsite.io/). Our research focuses on  understanding the dynamics of human microbiome, particularly:
+I am a third-year Ph.D. candidate at [the Department of Integrative Physiology](https://www.colorado.edu/iphy/), [University of Colorado Boulder](https://www.colorado.edu/), where I am fortunate to work with [Dr. Matthew R. Olm](https://www.colorado.edu/iphy/people/faculty/matthew-r-olm) at [the Integrative Microbiome Research Laboratory](https://live-ucbdev-lab-olm.pantheonsite.io/). Our research focuses on  understanding the dynamics of human microbiome, particularly:
 - The transmission and acquisition patterns of human microbiota
 - The role of gut microbiome in early-life immune system development and disease
 - The complex interactions between intestinal immunity and microbiome in health and disease
@@ -24,6 +24,7 @@ I am always excited to discuss science and potential collaborations. Feel free t
 
 News
 ======
++ [2026.09] I passed my **Comprehensive Examination** and have officially advanced to **Ph.D. candidacy** at the Department of Integrative Physiology, CU Boulder! 🎓 Onward to the dissertation work on IgA-mediated microbiome–immune interactions in the infant gut.
 + [2026.05] Our new preprint ["IgA Targeting in the Infant Gut Is Modulated by Diet and Increasingly Directed Towards Persistent Species"](https://www.biorxiv.org/content/10.64898/2026.05.19.726352v1.abstract) is now available on **bioRxiv**!
 + [2026.04] I received the 🏆 **Best Abstract Award** at the **Lillian Fountain-Smith Conference 2026** (April 16–17, Fort Collins, CO) for "IgA Targeting in the Infant Gut Is Modulated by Diet and Increasingly Directed Towards Persistent Species." I also had a wonderful time delivering a 15-minute Lightning Talk and discussing nutrition science with everyone!
 + [2026.03] Our paper ["Evaluation of antimicrobial resistance governance across 193 countries to inform the 2026 Global Action Plan update"](https://doi.org/10.1038/s41591-026-04257-1) is now published online in **Nature Medicine**!
@@ -33,4 +34,3 @@ News
 + [2025.02] Our paper ["Metagenomic insights into correlation of microbiota and antibiotic resistance genes in the worker-pig-soil interface: A One Health surveillance on Chongming Island, China"](https://doi.org/10.1016/j.hazadv.2025.100648) has been accepted by **Journal of Hazardous Materials Advances**!
 + [2024.10] Our "In Translation" article ["Hospitalization throws the preterm gut microbiome off-key"](https://doi.org/10.1016/j.chom.2024.09.009) was published in **Cell Host & Microbe**!
 + [2024.08] I am thrilled to join the [Integrative Microbiome Research Laboratory](https://live-ucbdev-lab-olm.pantheonsite.io/) at University of Colorado Boulder as a first-year Ph.D. student!
-
