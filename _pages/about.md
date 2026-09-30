@@ -13,7 +13,9 @@ redirect_from:
 Hello, I'm Jing
 ======
 
-I am a third-year Ph.D. candidate at [the Department of Integrative Physiology](https://www.colorado.edu/iphy/), [University of Colorado Boulder](https://www.colorado.edu/), where I am fortunate to work with [Dr. Matthew R. Olm](https://www.colorado.edu/iphy/people/faculty/matthew-r-olm) at [the Integrative Microbiome Research Laboratory](https://live-ucbdev-lab-olm.pantheonsite.io/). Our research focuses on  understanding the dynamics of human microbiome, particularly:
+📄 [**CV**](https://drive.google.com/file/d/1xy1ZOE_R70Ij-LB78fU0swIOhcjfUKYI/view?usp=drive_link) &nbsp;·&nbsp; 🎓 [**Google Scholar**](https://scholar.google.com/citations?user=P1HOw1gAAAAJ) &nbsp;·&nbsp; ✉️ [**Email**](mailto:Jing.Qian@colorado.edu)
+
+I am a third-year Ph.D. candidate at [the Department of Integrative Physiology](https://www.colorado.edu/iphy/), [University of Colorado Boulder](https://www.colorado.edu/), where I am fortunate to work with [Dr. Matthew R. Olm](https://www.colorado.edu/iphy/people/faculty/matthew-r-olm) at [the Integrative Microbiome Research Laboratory](https://www.colorado.edu/lab/olm/). Our research focuses on understanding the dynamics of human microbiome, particularly:
 - The transmission and acquisition patterns of human microbiota
 - The role of gut microbiome in early-life immune system development and disease
 - The complex interactions between intestinal immunity and microbiome in health and disease
@@ -33,4 +35,4 @@ News
 + [2025.10] I presented a poster titled "Quantifying the Impact of First Foods on the Infant Gut Microbiota and Immune Health via IgA" at the **Colorado NORC Retreat**, Anschutz Medical Campus, Aurora, CO!
 + [2025.02] Our paper ["Metagenomic insights into correlation of microbiota and antibiotic resistance genes in the worker-pig-soil interface: A One Health surveillance on Chongming Island, China"](https://doi.org/10.1016/j.hazadv.2025.100648) has been accepted by **Journal of Hazardous Materials Advances**!
 + [2024.10] Our "In Translation" article ["Hospitalization throws the preterm gut microbiome off-key"](https://doi.org/10.1016/j.chom.2024.09.009) was published in **Cell Host & Microbe**!
-+ [2024.08] I am thrilled to join the [Integrative Microbiome Research Laboratory](https://live-ucbdev-lab-olm.pantheonsite.io/) at University of Colorado Boulder as a first-year Ph.D. student!
++ [2024.08] I am thrilled to join the [Integrative Microbiome Research Laboratory](https://www.colorado.edu/lab/olm/) at University of Colorado Boulder as a first-year Ph.D. student!
