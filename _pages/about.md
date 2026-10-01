@@ -15,14 +15,11 @@ Hello, I'm Jing
 
 📄 [**CV**](https://drive.google.com/file/d/1xy1ZOE_R70Ij-LB78fU0swIOhcjfUKYI/view?usp=drive_link) &nbsp;·&nbsp; 🎓 [**Google Scholar**](https://scholar.google.com/citations?user=P1HOw1gAAAAJ) &nbsp;·&nbsp; ✉️ [**Email**](mailto:Jing.Qian@colorado.edu)
 
-I am a third-year Ph.D. candidate at [the Department of Integrative Physiology](https://www.colorado.edu/iphy/), [University of Colorado Boulder](https://www.colorado.edu/), where I am fortunate to work with [Dr. Matthew R. Olm](https://www.colorado.edu/iphy/people/faculty/matthew-r-olm) at [the Integrative Microbiome Research Laboratory](https://www.colorado.edu/lab/olm/). Our research focuses on understanding the dynamics of human microbiome, particularly:
-- The transmission and acquisition patterns of human microbiota
-- The role of gut microbiome in early-life immune system development and disease
-- The complex interactions between intestinal immunity and microbiome in health and disease
+I am a third-year Ph.D. candidate in [Integrative Physiology](https://www.colorado.edu/iphy/) at the [University of Colorado Boulder](https://www.colorado.edu/), where I work with [Dr. Matthew R. Olm](https://www.colorado.edu/iphy/people/faculty/matthew-r-olm) in the [Integrative Microbiome Research Laboratory](https://www.colorado.edu/lab/olm/). I study how the infant immune system shapes the developing gut microbiome, focusing on IgA-mediated microbiome-immune interactions during the first year of life. [Read more about my research](/projects/).
 
-Previously, I completed my Master of Medicine at [Shanghai Jiao Tong University School of Medicine](https://www.shsmu.edu.cn/english), where I worked on antibiotic resistance genes and One Health surveillance. I received my Bachelor of Medicine from [Anhui Medical University](https://english.ahmu.edu.cn/).
+Previously, I completed my Master of Medicine at [Shanghai Jiao Tong University School of Medicine](https://www.shsmu.edu.cn/english), where I worked on antibiotic resistance genes and One Health surveillance, and my Bachelor of Medicine at [Anhui Medical University](https://english.ahmu.edu.cn/).
 
-I am always excited to discuss science and potential collaborations. Feel free to reach out via email!
+I am always excited to discuss science and potential collaborations. Feel free to reach out!
 
 News
 ======
