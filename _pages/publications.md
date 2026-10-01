@@ -7,13 +7,18 @@ author_profile: true
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=P1HOw1gAAAAJ).
 
-Lastest Update: February 6, 2026&nbsp;
+Latest Update: September 30, 2026&nbsp;
+
+Preprints
+------
+
++ **Jing Qian**, Parsa Ghadermazi, Soren Maret, Jennifer F. Kemp, Daniel Frank, Edward L. Melanson, Audrey E. Hendricks, Nancy Krebs, Minghua Tang, Matthew R. Olm. IgA Targeting in the Infant Gut Is Modulated by Diet and Increasingly Directed Towards Persistent Species. ***bioRxiv***. 2026. [[View](https://doi.org/10.64898/2026.05.19.726352)]
 
 Papers
 ------
 
-+ Weiye Chen*, Yige Zeng*, Jinxin Zheng*, Jing Wang*, Wei Gu*, Min Li, Zile Cheng, **Jing Qian**, Xiaoxi Zhang, Emmanuel Kabali, Chao Lv, Yiwen Chen, Guangrui Yang, Nan Zhou, Xiao Tan, Chendi Zhu, Hein Min Tun, Mashkoor Mohsin, Tanvir Rahman, Zhemin Zhou, Yonghong Xiao, Hong Chen, Chunlei Shi, Robert Bergquist, J. Ross Fitzgerald, Sheng Chen, Yung-Fu Chang, Zhaojun Wang, Xiaonong Zhou, Xiaokui Guo, Jürg Utzinger, Junxia Song, Yongzhang Zhu^. Evaluation of antimicrobial resistance governance across 193 countries to inform the 2026 Global Action Plan update. ***Nature Medicine***. 2026. [[View](https://doi.org/10.1038/s41591-026-04257-1)]
-  <br>*( *: Co-first authors; ^: Corresponding author )*
++ Weiye Chen\*, Yige Zeng\*, Jinxin Zheng\*, Jing Wang\*, Wei Gu\*, Min Li, Zile Cheng, **Jing Qian**, Xiaoxi Zhang, Emmanuel Kabali, Chao Lv, Yiwen Chen, Guangrui Yang, Nan Zhou, Xiao Tan, Chendi Zhu, Hein Min Tun, Mashkoor Mohsin, Tanvir Rahman, Zhemin Zhou, Yonghong Xiao, Hong Chen, Chunlei Shi, Robert Bergquist, J. Ross Fitzgerald, Sheng Chen, Yung-Fu Chang, Zhaojun Wang, Xiaonong Zhou, Xiaokui Guo^, Jürg Utzinger^, Junxia Song^, Yongzhang Zhu^. Evaluation of antimicrobial resistance governance across 193 countries to inform the 2026 Global Action Plan update. ***Nature Medicine***. 2026. [[View](https://doi.org/10.1038/s41591-026-04257-1)]
+  <br><em>(\*: Co-first authors; ^: Corresponding authors)</em>
 
 + **Jing Qian**, Zheyuan Wu, Lingchao Ma, Yongzhang Zhu, Yan Zhang, Min Li, Xiaokui Guo, Chang Liu. Metagenomic insights into correlation of microbiota and antibiotic resistance genes in the worker-pig-soil interface: A One Health surveillance on Chongming Island, China. ***Journal of Hazardous Materials Advances***. 2025, 100648. [[View](https://doi.org/10.1016/j.hazadv.2025.100648)]
 
