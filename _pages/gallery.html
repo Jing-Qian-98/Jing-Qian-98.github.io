@@ -162,6 +162,20 @@ author_profile: true
     <p class="g-hint">Click any photo to enlarge &nbsp;&middot;&nbsp; &larr; &rarr; to navigate</p>
   </div>
 
+  <div class="g-section">
+    <div class="g-section-header">
+      <span class="g-tag">&#x1F9EC; Workshop</span>
+      <h3>MoWMA Microbiome Data Science Workshop</h3>
+      <p class="g-meta">January 26&ndash;29, 2026 &nbsp;&middot;&nbsp; Salt Lake City, UT</p>
+      <p style="font-size:13px; color:#666; margin:6px 0 0; max-width:600px; line-height:1.65;">
+        <em>Microbiome data science workshop hosted by the Mountain West Microbiome Alliance (MoWMA). Thank you to the workshop team &mdash; Greg Caporaso, Seth Walk, Cathy Lozupone, Jeff Meilander, Colin Wood, Chloe Herman, John O&rsquo;Conner, and Nick Pinkham &mdash; for the excellent training!</em>
+      </p>
+      <div class="g-divider"></div>
+    </div>
+    <div class="g-grid" id="mowmaGrid"></div>
+    <p class="g-hint">Click any photo to enlarge</p>
+  </div>
+
 </div>
 
 <div class="lb-backdrop" id="lbBackdrop">
@@ -208,6 +222,10 @@ var dronePhotos = [
   { url: "/images/gallery/MDRS/dji_fly_03.JPG", title: "Aerial View III", caption: "DJI - MDRS", col: "span 3", height: "200px" }
 ];
 
+var mowmaPhotos = [
+  { url: "/images/gallery/MoWMA/group.jpg", title: "MoWMA Workshop Group Photo", caption: "Salt Lake City, UT - January 2026", col: "span 3", height: "360px" }
+];
+
 var lfsPhotos = [
   { url: "/images/gallery/LFS4.JPG", title: "Lightning Talk",      caption: "Fort Collins, CO - April 2026", col: "span 3", height: "240px" },
   { url: "/images/gallery/LFS1.JPG", title: "Lightning Talk", caption: "Fort Collins, CO - April 2026", col: "span 2", height: "240px" },
@@ -249,6 +267,7 @@ function buildGrid(containerId, arr) {
 buildGrid("mdrsGrid",  mdrsPhotos);
 buildGrid("droneGrid", dronePhotos);
 buildGrid("lfsGrid",   lfsPhotos);
+buildGrid("mowmaGrid", mowmaPhotos);
 
 var curArr = [];
 var cur = 0;

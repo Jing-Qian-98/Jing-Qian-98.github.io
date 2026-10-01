@@ -36,3 +36,38 @@ News
 + [2025.02] Our paper ["Metagenomic insights into correlation of microbiota and antibiotic resistance genes in the worker-pig-soil interface: A One Health surveillance on Chongming Island, China"](https://doi.org/10.1016/j.hazadv.2025.100648) has been accepted by **Journal of Hazardous Materials Advances**!
 + [2024.10] Our "In Translation" article ["Hospitalization throws the preterm gut microbiome off-key"](https://doi.org/10.1016/j.chom.2024.09.009) was published in **Cell Host & Microbe**!
 + [2024.08] I am thrilled to join the [Integrative Microbiome Research Laboratory](https://www.colorado.edu/lab/olm/) at University of Colorado Boulder as a first-year Ph.D. student!
+
+<style>
+  .news-toggle {
+    display: inline-block; margin-top: 0.5em; padding: 0.4em 1.1em;
+    font-size: 0.85em; letter-spacing: 0.04em; color: #52adc8;
+    border: 1px solid #52adc8; border-radius: 4px; background: #fff; cursor: pointer;
+  }
+  .news-toggle:hover { background: #52adc8; color: #fff; }
+  .news-collapsed li.news-hidden { display: none; }
+</style>
+<script>
+  /* Collapse the News list to the latest few items with a Show more button */
+  (function () {
+    var SHOW = 4;
+    var heads = document.querySelectorAll("h1");
+    for (var h = 0; h < heads.length; h++) {
+      if (heads[h].textContent.trim() !== "News") { continue; }
+      var list = heads[h].nextElementSibling;
+      while (list && list.tagName !== "UL") { list = list.nextElementSibling; }
+      if (!list || list.children.length <= SHOW) { return; }
+      var items = list.children, hidden = items.length - SHOW;
+      for (var i = SHOW; i < items.length; i++) { items[i].classList.add("news-hidden"); }
+      list.classList.add("news-collapsed");
+      var btn = document.createElement("button");
+      btn.className = "news-toggle";
+      btn.textContent = "Show " + hidden + " more";
+      btn.onclick = function () {
+        var open = list.classList.toggle("news-collapsed");
+        btn.textContent = open ? "Show " + hidden + " more" : "Show less";
+      };
+      list.parentNode.insertBefore(btn, list.nextSibling);
+      return;
+    }
+  })();
+</script>
