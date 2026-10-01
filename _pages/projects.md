@@ -5,20 +5,40 @@ permalink: /projects/
 author_profile: true
 ---
 
-Understanding Human Microbiome Dynamics and Host-Microbe Interactions
-------
-Currently, our research in the [Olm Lab](https://live-ucbdev-lab-olm.pantheonsite.io/) focuses on several key aspects of human microbiome:
-- Investigating the transmission and acquisition patterns of human microbiota
-- Examining the gut microbiome's role in early-life immune system development
-- Studying host-microbe interactions in health and disease states
+Current Research
+======
 
-  
+In the [Olm Lab](https://www.colorado.edu/lab/olm/) (Integrative Microbiome Research Laboratory, CU Boulder), I study how the infant immune system shapes the developing gut microbiome. My dissertation focuses on IgA-mediated microbiome-immune interactions in the infant gut, combining wet-lab method development for low-biomass samples with strain-resolved metagenomics.
+
+Featured project: Diet-shaped IgA targeting in the infant gut (2024-present)
+------
+
+[![IgA poster](/images/poster_LFS2026_IgA.jpg)](/images/poster_LFS2026_IgA.jpg)
+*Poster presented at the Lillian Fountain-Smith Conference 2026, which received the 🏆 Best Abstract Award. Click the image to view it at full resolution.*
+
+**Question.** The first year of life is a critical window for immune and microbial development, and diet is a primary driver of the infant gut microbiome during complementary feeding. How diet influences which microbes the immune system targets at the strain level is not well understood.
+
+**Approach.** I adapted and optimized Metagenomic Immunoglobulin Sequencing (MIG-Seq) for low-biomass infant fecal samples, combining anti-IgA magnetic separation, flow cytometry, and metagenomic sequencing of IgA-bound and native fractions. We applied it to 32 samples from 16 infants in the MINT trial, a randomized controlled trial comparing meat-, dairy-, plant-based, and reference complementary diets from 5 to 12 months in breast- and formula-fed infants.
+
+**Key findings.**
+- MIG-Seq works in infants, overcoming low-biomass challenges in pediatric samples.
+- Infant IgA targeting mirrors adult patterns at the phylum level but is more dynamic and less species-selective.
+- Early complementary diet shapes IgA targeting of specific taxa by 12 months, and this effect depends on concurrent breast milk exposure.
+- IgA binding of persistent colonizers, especially *Bifidobacterium*, strengthens progressively from 6 to 12 months.
+
+**Outputs.**
+- **Jing Qian**, et al., Matthew R. Olm. IgA Targeting in the Infant Gut Is Modulated by Diet and Increasingly Directed Towards Persistent Species. ***bioRxiv*** (2026). [[Preprint](https://www.biorxiv.org/content/10.64898/2026.05.19.726352v1.abstract)] [[Poster](/images/poster_LFS2026_IgA.jpg)]
+- Best Abstract Award & Lightning Talk, Lillian Fountain-Smith Conference 2026 (Fort Collins, CO)
+- Posters: Colorado NORC Retreat (2025); CCTSI Winter Pediatric Research Poster Session (2026)
+
+**Skills used.** Low-biomass sample processing · magnetic-bead IgA sorting · flow cytometry · shotgun metagenomics · strain-level profiling · Nextflow pipelines on HPC
+
 Previous Research
 ======
 
 Label combination in cause-of-death analysis (2023)
 ------
-In 2023, I work in Prof. [Zehang Richard Li](https://zehangli.com/) at UCSC. We focus on cause-of-death analysis where post-training label combination is important if we want to yield appropriately ambiguous results without sacrificing essential information. Existing label combination methods are designed exclusively for classification tasks, so we need to extend them to tasks with a different loss like cause-of-death analysis. Our key design is to formulate the label combination problem as a new optimization problem with a proposed regularizer to control the combination degree.
+In 2023, I worked with Prof. [Zehang Richard Li](https://zehangli.com/) at UCSC. We focus on cause-of-death analysis where post-training label combination is important if we want to yield appropriately ambiguous results without sacrificing essential information. Existing label combination methods are designed exclusively for classification tasks, so we need to extend them to tasks with a different loss like cause-of-death analysis. Our key design is to formulate the label combination problem as a new optimization problem with a proposed regularizer to control the combination degree.
 
 
 Microbiota and antibiotic resistance genes at human-pig-soil interface (2022-2023)
