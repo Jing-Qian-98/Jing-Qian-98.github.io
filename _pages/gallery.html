@@ -212,6 +212,20 @@ author_profile: true
     <p class="g-hint">Click the photo to enlarge</p>
   </div>
 
+  <div class="g-section" id="cctsi-2026">
+    <div class="g-section-header">
+      <span class="g-tag">&#x1F4CC; Poster Session</span>
+      <h3>CCTSI Winter Pediatric Research Poster Session</h3>
+      <p class="g-meta">January 2026 &nbsp;&middot;&nbsp; Anschutz Medical Campus, Aurora, CO</p>
+      <p style="font-size:13px; color:#666; margin:6px 0 0; max-width:600px; line-height:1.65;">
+        <em>&ldquo;Quantifying the Impact of First Foods on the Infant Gut Microbiota and Immune Health via IgA&rdquo;, presented at the Winter Pediatric Research Poster Session hosted by the Colorado Clinical &amp; Translational Research Sciences Institute (CCTSI) at Children&rsquo;s Hospital Colorado.</em>
+      </p>
+      <div class="g-divider"></div>
+    </div>
+    <div class="g-grid" id="cctsiGrid"></div>
+    <p class="g-hint">Click the photo to enlarge</p>
+  </div>
+
 </div>
 
 <div class="lb-backdrop" id="lbBackdrop">
@@ -261,6 +275,10 @@ var dronePhotos = [
 
 var mowmaPhotos = [
   { url: "/images/gallery/MoWMA/group.jpg", title: "MoWMA Workshop Group Photo", caption: "Salt Lake City, UT - January 2026", col: "span 3", height: "360px" , ar: 1.7243 }
+];
+
+var cctsiPhotos = [
+  { url: "/images/gallery/CCTSI/poster-with-olm.jpg", title: "Poster session with Dr. Matthew Olm", caption: "Aurora, CO - January 2026", col: "span 3", height: "360px", ar: 1.3333 }
 ];
 
 var lfsPhotos = [
@@ -336,6 +354,7 @@ buildGrid("mdrsGrid",  mdrsPhotos);
 buildGrid("droneGrid", dronePhotos);
 buildGrid("lfsGrid",   lfsPhotos);
 buildGrid("mowmaGrid", mowmaPhotos);
+buildGrid("cctsiGrid", cctsiPhotos);
 
 var curArr = [];
 var cur = 0;
