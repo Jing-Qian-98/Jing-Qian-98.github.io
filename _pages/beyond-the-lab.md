@@ -48,5 +48,5 @@ author_profile: true
 <h3>More Colorado Trails</h3>
 <p>A few more favorite hikes around Colorado.</p>
 <div class="row"><figure style="flex:0.750"><a href="/images/beyond-the-lab/royal-arch.jpg" target="_blank"><img src="/images/beyond-the-lab/royal-arch.jpg" alt="Royal Arch, Boulder" width="1200" height="1600" loading="lazy"></a><figcaption>Royal Arch, Boulder</figcaption></figure><figure style="flex:1.333"><a href="/images/beyond-the-lab/lake-dorothy-1.jpg" target="_blank"><img src="/images/beyond-the-lab/lake-dorothy-1.jpg" alt="Lake Dorothy" width="1600" height="1200" loading="lazy"></a><figcaption>Lake Dorothy</figcaption></figure><figure style="flex:1.333"><a href="/images/beyond-the-lab/lake-dorothy-2.jpg" target="_blank"><img src="/images/beyond-the-lab/lake-dorothy-2.jpg" alt="View from the trail to Lake Dorothy" width="1600" height="1200" loading="lazy"></a><figcaption>View from the trail to Lake Dorothy</figcaption></figure></div>
-<p class="closing">Always happy to swap race and trail recommendations, so feel free to say hi at the conference!</p>
+<p class="closing">I'm still a beginner and my pace is pretty slow, but I'm here to enjoy the process: sweaty, but happy! Always happy to swap race and trail recommendations, so feel free to reach out.</p>
 </div>
