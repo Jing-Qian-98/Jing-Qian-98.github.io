@@ -7,3 +7,5 @@ main:
     url: /projects/
   - title: "Gallery"
     url: /gallery/
+  - title: "Beyond the Lab"
+    url: /beyond-the-lab/
