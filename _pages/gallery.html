@@ -118,12 +118,12 @@ author_profile: true
   to   { opacity: 1; transform: scale(1); }
 }
 .lb-img-wrap {
-  width: 780px; max-width: 90vw;
-  height: 500px; max-height: 68vh;
+  width: 94vw; max-width: 1800px;
+  height: calc(100vh - 140px);
   border-radius: 3px; overflow: hidden;
 }
 .lb-img-bg { width: 100%; height: 100%; background-size: contain; background-repeat: no-repeat; background-position: center; }
-.lb-info { margin-top: 14px; text-align: center; }
+.lb-info { margin-top: 10px; text-align: center; }
 .lb-title {
   font-family: 'Cormorant Garamond', serif;
   font-weight: 300; font-size: 21px;
@@ -134,13 +134,13 @@ author_profile: true
   letter-spacing: 0.1em; text-transform: uppercase; margin: 0;
 }
 .lb-close {
-  position: absolute; top: -38px; right: 0;
+  position: fixed; top: 14px; right: 18px; z-index: 10;
   background: none; border: none;
   color: rgba(255,255,255,0.5); font-size: 22px;
   cursor: pointer; padding: 4px 8px; line-height: 1; transition: color 0.2s;
 }
 .lb-close:hover { color: #fff; }
-.lb-nav { display: flex; gap: 18px; margin-top: 18px; }
+.lb-nav { display: flex; gap: 14px; margin-top: 10px; align-items: center; }
 .lb-nav button {
   background: rgba(255,255,255,0.08);
   border: 0.5px solid rgba(255,255,255,0.18);
@@ -150,7 +150,15 @@ author_profile: true
   transition: background 0.2s; font-family: 'DM Sans', sans-serif;
 }
 .lb-nav button:hover { background: rgba(255,255,255,0.18); }
+.lb-full {
+  color: rgba(255,255,255,0.55); font-size: 11px;
+  letter-spacing: 0.08em; text-transform: uppercase;
+  text-decoration: none; border-bottom: 1px solid rgba(255,255,255,0.25);
+  padding-bottom: 2px;
+}
+.lb-full:hover { color: #fff; }
 @media (max-width: 640px) {
+  .lb-img-wrap { height: calc(100vh - 175px); }
   .photo-item { height: 210px; }
   .g-section { margin-bottom: 2.5rem; }
 }
@@ -218,6 +226,7 @@ author_profile: true
     <div class="lb-nav">
       <button id="lbPrev">&#x2190; Prev</button>
       <button id="lbNext">Next &#x2192;</button>
+      <a class="lb-full" id="lbFull" target="_blank" rel="noopener">Full size</a>
     </div>
   </div>
 </div>
@@ -337,6 +346,7 @@ var lbCaption = document.getElementById("lbCaption");
 function render() {
   var p = curArr[cur];
   lbImg.style.backgroundImage = "url(" + largeUrl(p.url) + ")";
+  document.getElementById("lbFull").href = p.url;
   lbTitle.textContent   = p.title;
   lbCaption.textContent = p.caption;
 }
