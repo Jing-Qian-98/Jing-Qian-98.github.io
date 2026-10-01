@@ -65,7 +65,7 @@ author_profile: true
 
 <script>
 (function () {
-  var rowH = function () { return window.innerWidth <= 640 ? 215 : 300; };
+  var rowH = function () { return window.innerWidth <= 640 ? 210 : 270; };
   var rows = [].slice.call(document.querySelectorAll(".btl .row"));
   var sizeAll = function () {
     var h = rowH();
