@@ -6,7 +6,7 @@
     var path = location.pathname.replace(/\/+$/, "") || "/";
     var links = document.querySelectorAll(".greedy-nav .masthead__menu-item:not(.masthead__menu-item--lg) a");
     for (var i = 0; i < links.length; i++) {
-      var href = links[i].getAttribute("href").replace(/\/+$/, "") || "/";
+      var href = new URL(links[i].getAttribute("href"), location.href).pathname.replace(/\/+$/, "") || "/";
       if (href === "/" ? path === "/" : path.indexOf(href) === 0) {
         links[i].classList.add("nav-current");
         break;
