@@ -74,7 +74,7 @@ author_profile: true
   background: #f0f0f0;
 }
 .photo-bg {
-  height: 100%; width: auto; display: block;
+  height: 100%; width: 100%; display: block; object-fit: cover;
   transition: transform 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94);
 }
 .photo-item:hover .photo-bg { transform: scale(1.03); }
@@ -225,40 +225,40 @@ author_profile: true
 <script>
 var mdrsPhotos = [
 
-  { url: "/images/gallery/MDRS/01.JPG",            title: "MDRS - March 2026", caption: "Hanksville, UT", col: "span 3", height: "220px" },
+  { url: "/images/gallery/MDRS/01.JPG",            title: "MDRS - March 2026", caption: "Hanksville, UT", col: "span 3", height: "220px" , ar: 1.4988 },
 
-  { url: "/images/gallery/MDRS/02.jpeg",            title: "MDRS - March 2026", caption: "Hanksville, UT", col: "",       height: "300px" },
-  { url: "/images/gallery/MDRS/03.JPG",             title: "MDRS - March 2026", caption: "Hanksville, UT", col: "",       height: "300px" },
-  { url: "/images/gallery/MDRS/04.JPG",             title: "MDRS - March 2026", caption: "Hanksville, UT", col: "",       height: "300px" },
+  { url: "/images/gallery/MDRS/02.jpeg",            title: "MDRS - March 2026", caption: "Hanksville, UT", col: "",       height: "300px" , ar: 1.3333 },
+  { url: "/images/gallery/MDRS/03.JPG",             title: "MDRS - March 2026", caption: "Hanksville, UT", col: "",       height: "300px" , ar: 0.6679 },
+  { url: "/images/gallery/MDRS/04.JPG",             title: "MDRS - March 2026", caption: "Hanksville, UT", col: "",       height: "300px" , ar: 1.498 },
 
-  { url: "/images/gallery/MDRS/05.JPG",             title: "MDRS - March 2026", caption: "Hanksville, UT", col: "span 2", height: "300px" },
-  { url: "/images/gallery/MDRS/06.JPG",             title: "MDRS - March 2026", caption: "Hanksville, UT", col: "",       height: "300px" },
+  { url: "/images/gallery/MDRS/05.JPG",             title: "MDRS - March 2026", caption: "Hanksville, UT", col: "span 2", height: "300px" , ar: 1.4988 },
+  { url: "/images/gallery/MDRS/06.JPG",             title: "MDRS - March 2026", caption: "Hanksville, UT", col: "",       height: "300px" , ar: 0.6679 },
 
-  { url: "/images/gallery/MDRS/07.JPG",             title: "MDRS - March 2026", caption: "Hanksville, UT", col: "",       height: "300px" },
-  { url: "/images/gallery/MDRS/08.JPG",             title: "MDRS - March 2026", caption: "Hanksville, UT", col: "",       height: "300px" },
-  { url: "/images/gallery/MDRS/09.JPG",             title: "MDRS - March 2026", caption: "Hanksville, UT", col: "",       height: "300px" },
+  { url: "/images/gallery/MDRS/07.JPG",             title: "MDRS - March 2026", caption: "Hanksville, UT", col: "",       height: "300px" , ar: 1.4988 },
+  { url: "/images/gallery/MDRS/08.JPG",             title: "MDRS - March 2026", caption: "Hanksville, UT", col: "",       height: "300px" , ar: 0.6679 },
+  { url: "/images/gallery/MDRS/09.JPG",             title: "MDRS - March 2026", caption: "Hanksville, UT", col: "",       height: "300px" , ar: 1.4988 },
 
-  { url: "/images/gallery/MDRS/IMG_7897%202.jpeg",  title: "MDRS - March 2026", caption: "Hanksville, UT", col: "",       height: "180px" },
-  { url: "/images/gallery/MDRS/IMG_8234%202.jpeg",  title: "MDRS - March 2026", caption: "Hanksville, UT", col: "span 2", height: "180px" },
-  { url: "/images/gallery/MDRS/IMG_9942%202.jpeg",  title: "MDRS - March 2026", caption: "Hanksville, UT", col: "span 3", height: "180px" }
+  { url: "/images/gallery/MDRS/IMG_7897%202.jpeg",  title: "MDRS - March 2026", caption: "Hanksville, UT", col: "",       height: "180px" , ar: 1.3333 },
+  { url: "/images/gallery/MDRS/IMG_8234%202.jpeg",  title: "MDRS - March 2026", caption: "Hanksville, UT", col: "span 2", height: "180px" , ar: 1.3333 },
+  { url: "/images/gallery/MDRS/IMG_9942%202.jpeg",  title: "MDRS - March 2026", caption: "Hanksville, UT", col: "span 3", height: "180px" , ar: 1.3333 }
 ];
 
 var dronePhotos = [
-  { url: "/images/gallery/MDRS/dji_fly_01.JPG", title: "Aerial View I",   caption: "DJI - MDRS", col: "span 2", height: "200px" },
-  { url: "/images/gallery/MDRS/dji_fly_02.JPG", title: "Aerial View II",  caption: "DJI - MDRS", col: "",       height: "200px" },
-  { url: "/images/gallery/MDRS/dji_fly_03.JPG", title: "Aerial View III", caption: "DJI - MDRS", col: "span 3", height: "200px" }
+  { url: "/images/gallery/MDRS/dji_fly_01.JPG", title: "Aerial View I",   caption: "DJI - MDRS", col: "span 2", height: "200px" , ar: 1.7778 },
+  { url: "/images/gallery/MDRS/dji_fly_02.JPG", title: "Aerial View II",  caption: "DJI - MDRS", col: "",       height: "200px" , ar: 1.7778 },
+  { url: "/images/gallery/MDRS/dji_fly_03.JPG", title: "Aerial View III", caption: "DJI - MDRS", col: "span 3", height: "200px" , ar: 1.7778 }
 ];
 
 var mowmaPhotos = [
-  { url: "/images/gallery/MoWMA/group.jpg", title: "MoWMA Workshop Group Photo", caption: "Salt Lake City, UT - January 2026", col: "span 3", height: "360px" }
+  { url: "/images/gallery/MoWMA/group.jpg", title: "MoWMA Workshop Group Photo", caption: "Salt Lake City, UT - January 2026", col: "span 3", height: "360px" , ar: 1.7243 }
 ];
 
 var lfsPhotos = [
-  { url: "/images/gallery/LFS4.JPG", title: "Lightning Talk",      caption: "Fort Collins, CO - April 2026", col: "span 3", height: "240px" },
-  { url: "/images/gallery/LFS1.JPG", title: "Lightning Talk", caption: "Fort Collins, CO - April 2026", col: "span 2", height: "240px" },
-  { url: "/images/gallery/LFS2.JPG", title: "Lightning Talk", caption: "Fort Collins, CO - April 2026",  col: "",       height: "240px" },
-  { url: "/images/gallery/LFS3.JPG", title: "Best Abstract Award",   caption: "Fort Collins, CO - April 2026",             col: "",       height: "240px" },
-  { url: "/images/gallery/LFS5.JPG", title: "Lightning Talk",       caption: "Fort Collins, CO - April 2026",          col: "span 2", height: "240px" }
+  { url: "/images/gallery/LFS4.JPG", title: "Lightning Talk",      caption: "Fort Collins, CO - April 2026", col: "span 3", height: "240px" , ar: 1.5 },
+  { url: "/images/gallery/LFS1.JPG", title: "Lightning Talk", caption: "Fort Collins, CO - April 2026", col: "span 2", height: "240px" , ar: 1.5 },
+  { url: "/images/gallery/LFS2.JPG", title: "Lightning Talk", caption: "Fort Collins, CO - April 2026",  col: "",       height: "240px" , ar: 1.4949 },
+  { url: "/images/gallery/LFS3.JPG", title: "Best Abstract Award",   caption: "Fort Collins, CO - April 2026",             col: "",       height: "240px" , ar: 1.4755 },
+  { url: "/images/gallery/LFS5.JPG", title: "Lightning Talk",       caption: "Fort Collins, CO - April 2026",          col: "span 2", height: "240px" , ar: 1.5 }
 ];
 
 function thumbUrl(u) { return u.replace("/images/gallery/", "/images/gallery/thumbs/"); }
@@ -296,6 +296,7 @@ function buildGrid(containerId, arr) {
     var p = arr[i];
     var item = document.createElement("div");
     item.className = "photo-item";
+    if (p.ar) { item.style.aspectRatio = String(p.ar); }
     var bg = document.createElement("img");
     bg.className = "photo-bg";
     bg.src = thumbUrl(p.url);
