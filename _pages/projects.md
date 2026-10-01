@@ -27,7 +27,7 @@ Featured project: Diet-shaped IgA targeting in the infant gut (2024-present)
 - IgA binding of persistent colonizers, especially *Bifidobacterium*, strengthens progressively from 6 to 12 months.
 
 **Outputs.**
-- **Jing Qian**, et al., Matthew R. Olm. IgA Targeting in the Infant Gut Is Modulated by Diet and Increasingly Directed Towards Persistent Species. ***bioRxiv*** (2026). [[Preprint](https://www.biorxiv.org/content/10.64898/2026.05.19.726352v1.abstract)] [[Poster](/images/poster_LFS2026_IgA.jpg)]
+- **Jing Qian**, et al., Matthew R. Olm. IgA Targeting in the Infant Gut Is Modulated by Diet and Increasingly Directed Towards Persistent Species. ***bioRxiv*** (2026). [[Preprint](https://www.biorxiv.org/content/10.64898/2026.05.19.726352v1.abstract)] [[Poster PDF](/files/Jing_LFS2026_IgA_poster.pdf)]
 - Best Abstract Award & Lightning Talk, Lillian Fountain-Smith Conference 2026 (Fort Collins, CO)
 - Posters: Colorado NORC Retreat (2025); CCTSI Winter Pediatric Research Poster Session (2026)
 
